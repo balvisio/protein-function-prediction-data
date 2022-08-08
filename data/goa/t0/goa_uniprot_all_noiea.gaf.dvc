@@ -1,0 +1,4 @@
+outs:
+- md5: 8b2d3720f7b3f7ef63352cfec6b9d1a3
+  size: 43239570
+  path: goa_uniprot_all_noiea.gaf

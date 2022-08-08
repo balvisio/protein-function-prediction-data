@@ -1,0 +1,4 @@
+outs:
+- md5: 057c566360413c774aed21db30253320
+  size: 3657327413
+  path: uniprot_sprot.dat
