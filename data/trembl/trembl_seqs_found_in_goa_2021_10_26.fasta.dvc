@@ -1,4 +1,4 @@
 outs:
 - md5: 67d06c50ddb68f29f9b023e694ee8206
   size: 22379262
-  path: uniprot_kb_goa_2021_10_26_seqs.fasta
+  path: trembl_seqs_found_in_goa_2021_10_26.fasta
