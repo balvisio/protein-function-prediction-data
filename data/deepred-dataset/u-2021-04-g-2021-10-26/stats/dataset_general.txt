@@ -1,0 +1,5 @@
+Creation Time: 2022-10-06 21:25:42.491334
+Ontology File: data/ontology/t0/go_20211026.obo (md5: 6757c819642e79e1406cad3ffcb6ea3d)
+Swissprot t0 File: data/uniprotkb/t0/uniprot_sprot.dat (md5: 057c566360413c774aed21db30253320)
+Swissprot t1 File: data/uniprotkb/t1/uniprot_sprot.dat (md5: 0d328d4b468f616baf459fb71fda3597)
+GOA File: data/goa/t0/goa_uniprot_all_noiea.gaf (md5: a8ff88945e9aca68eabc947e4392717b)

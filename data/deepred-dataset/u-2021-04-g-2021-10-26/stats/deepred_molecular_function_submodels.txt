@@ -1,0 +1,3001 @@
+Mean Imbalanced Ratio Threshold: 3
+Model 2238, level: 0, bucket: 500, subindex: 0
+Number of GO Terms: 1
+GO Terms: ['GO:0003674']
+Number of samples: 87562
+Mean IR: 1.000
+
+Model 2244, level: 1, bucket: 30, subindex: 0
+Number of GO Terms: 2
+GO Terms: ['GO:0045735', 'GO:0140313']
+Number of samples: 53
+Mean IR: 1.467
+
+Model 2243, level: 1, bucket: 100, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0090729', 'GO:0038024', 'GO:0031386', 'GO:0140299', 'GO:0140223']
+Number of samples: 564
+Mean IR: 1.275
+
+Model 2242, level: 1, bucket: 300, subindex: 0
+Number of GO Terms: 2
+GO Terms: ['GO:0044183', 'GO:0140104']
+Number of samples: 477
+Mean IR: 1.291
+
+Model 2239, level: 1, bucket: 500, subindex: 0
+Number of GO Terms: 4
+GO Terms: ['GO:0003774', 'GO:0016209', 'GO:0045182', 'GO:0060090']
+Number of samples: 2527
+Mean IR: 1.806
+
+Model 2240, level: 1, bucket: 500, subindex: 1
+Number of GO Terms: 4
+GO Terms: ['GO:0140657', 'GO:0060089', 'GO:0005198', 'GO:0098772']
+Number of samples: 13223
+Mean IR: 1.447
+
+Model 2241, level: 1, bucket: 500, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:0140110', 'GO:0005215', 'GO:0003824', 'GO:0005488']
+Number of samples: 67511
+Mean IR: 2.539
+
+Model 2261, level: 2, bucket: 30, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0004694', 'GO:0036402', 'GO:0043515', 'GO:0008430', 'GO:0001072']
+Number of samples: 92
+Mean IR: 1.046
+
+Model 2262, level: 2, bucket: 30, subindex: 1
+Number of GO Terms: 4
+GO Terms: ['GO:0046790', 'GO:0019911', 'GO:0000995', 'GO:0009927']
+Number of samples: 94
+Mean IR: 1.048
+
+Model 2263, level: 2, bucket: 30, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:0004362', 'GO:0000035', 'GO:0030228', 'GO:0036310']
+Number of samples: 113
+Mean IR: 1.017
+
+Model 2264, level: 2, bucket: 30, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0070025', 'GO:0015643', 'GO:0004791', 'GO:0016530']
+Number of samples: 134
+Mean IR: 1.042
+
+Model 2265, level: 2, bucket: 30, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0042165', 'GO:0005044', 'GO:0043176', 'GO:0046812']
+Number of samples: 152
+Mean IR: 1.046
+
+Model 2266, level: 2, bucket: 30, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0008568', 'GO:0005199', 'GO:0042302', 'GO:0051192']
+Number of samples: 167
+Mean IR: 1.047
+
+Model 2267, level: 2, bucket: 30, subindex: 6
+Number of GO Terms: 4
+GO Terms: ['GO:0140414', 'GO:1901567', 'GO:0098918', 'GO:0051920']
+Number of samples: 195
+Mean IR: 1.061
+
+Model 2268, level: 2, bucket: 30, subindex: 7
+Number of GO Terms: 4
+GO Terms: ['GO:0005212', 'GO:0140597', 'GO:0005344', 'GO:0140272']
+Number of samples: 225
+Mean IR: 1.035
+
+Model 2256, level: 2, bucket: 100, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0140326', 'GO:0060590', 'GO:0008307', 'GO:0048038', 'GO:0030371']
+Number of samples: 374
+Mean IR: 1.143
+
+Model 2257, level: 2, bucket: 100, subindex: 1
+Number of GO Terms: 5
+GO Terms: ['GO:0000155', 'GO:0015645', 'GO:0140142', 'GO:0004784', 'GO:0004176']
+Number of samples: 454
+Mean IR: 1.060
+
+Model 2258, level: 2, bucket: 100, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:0061783', 'GO:0140677', 'GO:0016251', 'GO:0017056']
+Number of samples: 398
+Mean IR: 1.020
+
+Model 2259, level: 2, bucket: 100, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0000146', 'GO:0050840', 'GO:0000156', 'GO:0032451']
+Number of samples: 461
+Mean IR: 1.194
+
+Model 2260, level: 2, bucket: 100, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0050997', 'GO:0009975', 'GO:0140678', 'GO:0005201']
+Number of samples: 617
+Mean IR: 1.110
+
+Model 2254, level: 2, bucket: 300, subindex: 0
+Number of GO Terms: 4
+GO Terms: ['GO:0005549', 'GO:0003777', 'GO:0140318', 'GO:0003823']
+Number of samples: 806
+Mean IR: 1.218
+
+Model 2255, level: 2, bucket: 300, subindex: 1
+Number of GO Terms: 4
+GO Terms: ['GO:0005200', 'GO:0008186', 'GO:0072341', 'GO:0004601']
+Number of samples: 1114
+Mean IR: 1.032
+
+Model 2245, level: 2, bucket: 500, subindex: 0
+Number of GO Terms: 4
+GO Terms: ['GO:0042562', 'GO:0016247', 'GO:0005319', 'GO:0008094']
+Number of samples: 1544
+Mean IR: 1.279
+
+Model 2246, level: 2, bucket: 500, subindex: 1
+Number of GO Terms: 4
+GO Terms: ['GO:0030246', 'GO:0004386', 'GO:0051540', 'GO:1901681']
+Number of samples: 2249
+Mean IR: 1.129
+
+Model 2247, level: 2, bucket: 500, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:0090079', 'GO:0030674', 'GO:0042626', 'GO:0033218']
+Number of samples: 3464
+Mean IR: 1.339
+
+Model 2248, level: 2, bucket: 500, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0030545', 'GO:0003712', 'GO:0003682', 'GO:0016853']
+Number of samples: 5129
+Mean IR: 1.104
+
+Model 2249, level: 2, bucket: 500, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0016874', 'GO:0008289', 'GO:0016829', 'GO:0003735']
+Number of samples: 8026
+Mean IR: 1.127
+
+Model 2250, level: 2, bucket: 500, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0030234', 'GO:0038023', 'GO:0044877', 'GO:0097367']
+Number of samples: 11720
+Mean IR: 1.065
+
+Model 2251, level: 2, bucket: 500, subindex: 6
+Number of GO Terms: 4
+GO Terms: ['GO:0140640', 'GO:0003700', 'GO:0036094', 'GO:0022857']
+Number of samples: 18281
+Mean IR: 1.202
+
+Model 2252, level: 2, bucket: 500, subindex: 7
+Number of GO Terms: 4
+GO Terms: ['GO:0016491', 'GO:0140096', 'GO:0043167', 'GO:0016787']
+Number of samples: 25760
+Mean IR: 1.231
+
+Model 2253, level: 2, bucket: 500, subindex: 8
+Number of GO Terms: 4
+GO Terms: ['GO:0016740', 'GO:1901363', 'GO:0097159', 'GO:0005515']
+Number of samples: 43174
+Mean IR: 1.305
+
+Model 2321, level: 3, bucket: 30, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0002162', 'GO:0005275', 'GO:0030020', 'GO:0042123', 'GO:0071723']
+Number of samples: 90
+Mean IR: 1.000
+
+Model 2322, level: 3, bucket: 30, subindex: 1
+Number of GO Terms: 5
+GO Terms: ['GO:1904399', 'GO:0080161', 'GO:0035727', 'GO:0035804', 'GO:0043008']
+Number of samples: 92
+Mean IR: 1.007
+
+Model 2323, level: 3, bucket: 30, subindex: 2
+Number of GO Terms: 5
+GO Terms: ['GO:0061676', 'GO:0016262', 'GO:0031956', 'GO:0039706', 'GO:0019534']
+Number of samples: 97
+Mean IR: 1.050
+
+Model 2324, level: 3, bucket: 30, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0005041', 'GO:0030235', 'GO:0033677', 'GO:0004169']
+Number of samples: 82
+Mean IR: 1.022
+
+Model 2325, level: 3, bucket: 30, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0140328', 'GO:0035612', 'GO:0017077', 'GO:0042166']
+Number of samples: 87
+Mean IR: 1.021
+
+Model 2326, level: 3, bucket: 30, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0097371', 'GO:0016531', 'GO:0019215', 'GO:0042608']
+Number of samples: 93
+Mean IR: 1.007
+
+Model 2327, level: 3, bucket: 30, subindex: 6
+Number of GO Terms: 4
+GO Terms: ['GO:0045295', 'GO:0042030', 'GO:0031682', 'GO:0043560']
+Number of samples: 95
+Mean IR: 1.006
+
+Model 2328, level: 3, bucket: 30, subindex: 7
+Number of GO Terms: 4
+GO Terms: ['GO:0008745', 'GO:0015616', 'GO:0019992', 'GO:0031177']
+Number of samples: 100
+Mean IR: 1.006
+
+Model 2329, level: 3, bucket: 30, subindex: 8
+Number of GO Terms: 4
+GO Terms: ['GO:0034040', 'GO:0045294', 'GO:0046789', 'GO:0010997']
+Number of samples: 104
+Mean IR: 1.017
+
+Model 2330, level: 3, bucket: 30, subindex: 9
+Number of GO Terms: 4
+GO Terms: ['GO:0045503', 'GO:0001846', 'GO:0070739', 'GO:0031543']
+Number of samples: 107
+Mean IR: 1.006
+
+Model 2331, level: 3, bucket: 30, subindex: 10
+Number of GO Terms: 4
+GO Terms: ['GO:0016730', 'GO:0005521', 'GO:0033283', 'GO:0016987']
+Number of samples: 112
+Mean IR: 1.005
+
+Model 2332, level: 3, bucket: 30, subindex: 11
+Number of GO Terms: 4
+GO Terms: ['GO:0030492', 'GO:0016872', 'GO:0015232', 'GO:0140327']
+Number of samples: 115
+Mean IR: 1.005
+
+Model 2333, level: 3, bucket: 30, subindex: 12
+Number of GO Terms: 4
+GO Terms: ['GO:0004325', 'GO:0005522', 'GO:0023023', 'GO:0005049']
+Number of samples: 118
+Mean IR: 1.015
+
+Model 2334, level: 3, bucket: 30, subindex: 13
+Number of GO Terms: 4
+GO Terms: ['GO:0005527', 'GO:0035374', 'GO:1990239', 'GO:0033691']
+Number of samples: 119
+Mean IR: 1.045
+
+Model 2335, level: 3, bucket: 30, subindex: 14
+Number of GO Terms: 4
+GO Terms: ['GO:0140416', 'GO:0004653', 'GO:0005214', 'GO:0010851']
+Number of samples: 129
+Mean IR: 1.005
+
+Model 2336, level: 3, bucket: 30, subindex: 15
+Number of GO Terms: 4
+GO Terms: ['GO:0015343', 'GO:0032794', 'GO:1990404', 'GO:0002054']
+Number of samples: 132
+Mean IR: 1.018
+
+Model 2337, level: 3, bucket: 30, subindex: 16
+Number of GO Terms: 4
+GO Terms: ['GO:0070095', 'GO:0008318', 'GO:0008658', 'GO:0008569']
+Number of samples: 137
+Mean IR: 1.018
+
+Model 2338, level: 3, bucket: 30, subindex: 17
+Number of GO Terms: 4
+GO Terms: ['GO:0044548', 'GO:0046933', 'GO:0003918', 'GO:0030742']
+Number of samples: 140
+Mean IR: 1.009
+
+Model 2339, level: 3, bucket: 30, subindex: 18
+Number of GO Terms: 4
+GO Terms: ['GO:0030976', 'GO:0043546', 'GO:0048185', 'GO:0099186']
+Number of samples: 141
+Mean IR: 1.000
+
+Model 2340, level: 3, bucket: 30, subindex: 19
+Number of GO Terms: 4
+GO Terms: ['GO:0008494', 'GO:0051378', 'GO:0005132', 'GO:0070064']
+Number of samples: 146
+Mean IR: 1.021
+
+Model 2341, level: 3, bucket: 30, subindex: 20
+Number of GO Terms: 4
+GO Terms: ['GO:0070324', 'GO:0045504', 'GO:0015203', 'GO:0016695']
+Number of samples: 154
+Mean IR: 1.012
+
+Model 2342, level: 3, bucket: 30, subindex: 21
+Number of GO Terms: 4
+GO Terms: ['GO:0016822', 'GO:0034185', 'GO:0071933', 'GO:0000900']
+Number of samples: 157
+Mean IR: 1.012
+
+Model 2343, level: 3, bucket: 30, subindex: 22
+Number of GO Terms: 4
+GO Terms: ['GO:0099602', 'GO:1901338', 'GO:0005326', 'GO:0008093']
+Number of samples: 163
+Mean IR: 1.022
+
+Model 2344, level: 3, bucket: 30, subindex: 23
+Number of GO Terms: 4
+GO Terms: ['GO:0015125', 'GO:0030507', 'GO:0001848', 'GO:0044620']
+Number of samples: 170
+Mean IR: 1.018
+
+Model 2345, level: 3, bucket: 30, subindex: 24
+Number of GO Terms: 4
+GO Terms: ['GO:0000036', 'GO:0008379', 'GO:0046624', 'GO:0015450']
+Number of samples: 176
+Mean IR: 1.038
+
+Model 2346, level: 3, bucket: 30, subindex: 25
+Number of GO Terms: 4
+GO Terms: ['GO:0000062', 'GO:0005324', 'GO:0140103', 'GO:0016885']
+Number of samples: 186
+Mean IR: 1.006
+
+Model 2347, level: 3, bucket: 30, subindex: 26
+Number of GO Terms: 4
+GO Terms: ['GO:1904047', 'GO:1901474', 'GO:0008474', 'GO:0032977']
+Number of samples: 194
+Mean IR: 1.016
+
+Model 2348, level: 3, bucket: 30, subindex: 27
+Number of GO Terms: 4
+GO Terms: ['GO:0140312', 'GO:0003796', 'GO:0004383', 'GO:0015205']
+Number of samples: 200
+Mean IR: 1.009
+
+Model 2349, level: 3, bucket: 30, subindex: 28
+Number of GO Terms: 4
+GO Terms: ['GO:0098599', 'GO:0042605', 'GO:0120227', 'GO:0003707']
+Number of samples: 209
+Mean IR: 1.020
+
+Model 2350, level: 3, bucket: 30, subindex: 29
+Number of GO Terms: 4
+GO Terms: ['GO:0008061', 'GO:0001618', 'GO:0097001', 'GO:0005158']
+Number of samples: 215
+Mean IR: 1.011
+
+Model 2351, level: 3, bucket: 30, subindex: 30
+Number of GO Terms: 4
+GO Terms: ['GO:0051959', 'GO:0004016', 'GO:0004096', 'GO:0043236']
+Number of samples: 221
+Mean IR: 1.011
+
+Model 2352, level: 3, bucket: 30, subindex: 31
+Number of GO Terms: 4
+GO Terms: ['GO:0045505', 'GO:0015026', 'GO:0043295', 'GO:0055106']
+Number of samples: 233
+Mean IR: 1.021
+
+Model 2299, level: 3, bucket: 100, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:1990756', 'GO:0061608', 'GO:0004467', 'GO:0016500', 'GO:0071889']
+Number of samples: 307
+Mean IR: 1.006
+
+Model 2300, level: 3, bucket: 100, subindex: 1
+Number of GO Terms: 5
+GO Terms: ['GO:0003916', 'GO:0000774', 'GO:0043395', 'GO:0031681', 'GO:0048039']
+Number of samples: 318
+Mean IR: 1.010
+
+Model 2301, level: 3, bucket: 100, subindex: 2
+Number of GO Terms: 5
+GO Terms: ['GO:0019865', 'GO:0008574', 'GO:0070628', 'GO:0071814', 'GO:0043548']
+Number of samples: 332
+Mean IR: 1.029
+
+Model 2302, level: 3, bucket: 100, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0016755', 'GO:0004602', 'GO:0046625', 'GO:0008641']
+Number of samples: 283
+Mean IR: 1.009
+
+Model 2303, level: 3, bucket: 100, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0070492', 'GO:0030547', 'GO:0072349', 'GO:0001968']
+Number of samples: 290
+Mean IR: 1.010
+
+Model 2304, level: 3, bucket: 100, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0051861', 'GO:0070840', 'GO:0038187', 'GO:0030332']
+Number of samples: 300
+Mean IR: 1.018
+
+Model 2305, level: 3, bucket: 100, subindex: 6
+Number of GO Terms: 4
+GO Terms: ['GO:0043495', 'GO:0015562', 'GO:0016679', 'GO:0015248']
+Number of samples: 314
+Mean IR: 1.010
+
+Model 2306, level: 3, bucket: 100, subindex: 7
+Number of GO Terms: 4
+GO Terms: ['GO:0001671', 'GO:0030247', 'GO:0016801', 'GO:0033558']
+Number of samples: 326
+Mean IR: 1.015
+
+Model 2307, level: 3, bucket: 100, subindex: 8
+Number of GO Terms: 4
+GO Terms: ['GO:0097602', 'GO:0003756', 'GO:0016886', 'GO:0016661']
+Number of samples: 341
+Mean IR: 1.013
+
+Model 2308, level: 3, bucket: 100, subindex: 9
+Number of GO Terms: 4
+GO Terms: ['GO:0140303', 'GO:0017147', 'GO:0016725', 'GO:0001530']
+Number of samples: 357
+Mean IR: 1.029
+
+Model 2309, level: 3, bucket: 100, subindex: 10
+Number of GO Terms: 4
+GO Terms: ['GO:0043225', 'GO:0090482', 'GO:0140457', 'GO:0016722']
+Number of samples: 376
+Mean IR: 1.008
+
+Model 2310, level: 3, bucket: 100, subindex: 11
+Number of GO Terms: 4
+GO Terms: ['GO:0001965', 'GO:0016721', 'GO:0031683', 'GO:0016248']
+Number of samples: 380
+Mean IR: 1.021
+
+Model 2311, level: 3, bucket: 100, subindex: 12
+Number of GO Terms: 4
+GO Terms: ['GO:0016229', 'GO:0019707', 'GO:0043394', 'GO:0051018']
+Number of samples: 401
+Mean IR: 1.017
+
+Model 2312, level: 3, bucket: 100, subindex: 13
+Number of GO Terms: 4
+GO Terms: ['GO:0031210', 'GO:0043028', 'GO:0061733', 'GO:0002039']
+Number of samples: 437
+Mean IR: 1.046
+
+Model 2313, level: 3, bucket: 100, subindex: 14
+Number of GO Terms: 4
+GO Terms: ['GO:0016846', 'GO:0019825', 'GO:0042625', 'GO:0035591']
+Number of samples: 485
+Mean IR: 1.045
+
+Model 2314, level: 3, bucket: 100, subindex: 15
+Number of GO Terms: 4
+GO Terms: ['GO:0097110', 'GO:0120013', 'GO:1901618', 'GO:0005518']
+Number of samples: 514
+Mean IR: 1.007
+
+Model 2315, level: 3, bucket: 100, subindex: 16
+Number of GO Terms: 4
+GO Terms: ['GO:0009881', 'GO:0016849', 'GO:0051787', 'GO:0015605']
+Number of samples: 535
+Mean IR: 1.046
+
+Model 2316, level: 3, bucket: 100, subindex: 17
+Number of GO Terms: 4
+GO Terms: ['GO:0017046', 'GO:0005548', 'GO:0005504', 'GO:1990841']
+Number of samples: 590
+Mean IR: 1.031
+
+Model 2317, level: 3, bucket: 100, subindex: 18
+Number of GO Terms: 4
+GO Terms: ['GO:0042910', 'GO:0005484', 'GO:0046332', 'GO:0019840']
+Number of samples: 632
+Mean IR: 1.007
+
+Model 2318, level: 3, bucket: 100, subindex: 19
+Number of GO Terms: 4
+GO Terms: ['GO:0008013', 'GO:0019213', 'GO:0031491', 'GO:0001786']
+Number of samples: 646
+Mean IR: 1.017
+
+Model 2319, level: 3, bucket: 100, subindex: 20
+Number of GO Terms: 4
+GO Terms: ['GO:0001098', 'GO:0016840', 'GO:0048306', 'GO:0016675']
+Number of samples: 682
+Mean IR: 1.021
+
+Model 2320, level: 3, bucket: 100, subindex: 21
+Number of GO Terms: 4
+GO Terms: ['GO:0140358', 'GO:0030276', 'GO:0051219', 'GO:0008320']
+Number of samples: 703
+Mean IR: 1.003
+
+Model 2291, level: 3, bucket: 300, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:1901682', 'GO:0015035', 'GO:0019239', 'GO:0016638', 'GO:0140359']
+Number of samples: 911
+Mean IR: 1.033
+
+Model 2292, level: 3, bucket: 300, subindex: 1
+Number of GO Terms: 5
+GO Terms: ['GO:0031369', 'GO:0016744', 'GO:0047485', 'GO:0022884', 'GO:0004879']
+Number of samples: 1009
+Mean IR: 1.036
+
+Model 2293, level: 3, bucket: 300, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:0098531', 'GO:0015932', 'GO:0003755', 'GO:0042887']
+Number of samples: 853
+Mean IR: 1.033
+
+Model 2294, level: 3, bucket: 300, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0016645', 'GO:0048029', 'GO:0016854', 'GO:0016701']
+Number of samples: 932
+Mean IR: 1.040
+
+Model 2295, level: 3, bucket: 300, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0044325', 'GO:0016859', 'GO:0043621', 'GO:1901505']
+Number of samples: 997
+Mean IR: 1.020
+
+Model 2296, level: 3, bucket: 300, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0031490', 'GO:0019208', 'GO:0043178', 'GO:0003724']
+Number of samples: 1045
+Mean IR: 1.029
+
+Model 2297, level: 3, bucket: 300, subindex: 6
+Number of GO Terms: 4
+GO Terms: ['GO:0003678', 'GO:0051087', 'GO:0005496', 'GO:0005178']
+Number of samples: 1114
+Mean IR: 1.030
+
+Model 2298, level: 3, bucket: 300, subindex: 7
+Number of GO Terms: 4
+GO Terms: ['GO:0030594', 'GO:0019829', 'GO:0140375', 'GO:0016877']
+Number of samples: 1181
+Mean IR: 1.008
+
+Model 2269, level: 3, bucket: 500, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0016769', 'GO:0008201', 'GO:0016684', 'GO:0015144', 'GO:0032182']
+Number of samples: 1537
+Mean IR: 1.016
+
+Model 2270, level: 3, bucket: 500, subindex: 1
+Number of GO Terms: 5
+GO Terms: ['GO:0019838', 'GO:0000149', 'GO:0099106', 'GO:0070279', 'GO:0016782']
+Number of samples: 1688
+Mean IR: 1.023
+
+Model 2271, level: 3, bucket: 500, subindex: 2
+Number of GO Terms: 5
+GO Terms: ['GO:0008022', 'GO:0019955', 'GO:0008276', 'GO:0031072', 'GO:0016866']
+Number of samples: 1810
+Mean IR: 1.019
+
+Model 2272, level: 3, bucket: 500, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0140030', 'GO:0005516', 'GO:0016667', 'GO:0001653']
+Number of samples: 1597
+Mean IR: 1.036
+
+Model 2273, level: 3, bucket: 500, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0003714', 'GO:0005539', 'GO:0016627', 'GO:0016903']
+Number of samples: 1763
+Mean IR: 1.084
+
+Model 2274, level: 3, bucket: 500, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0016860', 'GO:0043177', 'GO:0051213', 'GO:0061134']
+Number of samples: 2007
+Mean IR: 1.078
+
+Model 2275, level: 3, bucket: 500, subindex: 6
+Number of GO Terms: 4
+GO Terms: ['GO:0001217', 'GO:0051082', 'GO:0051536', 'GO:0019842']
+Number of samples: 2276
+Mean IR: 1.017
+
+Model 2276, level: 3, bucket: 500, subindex: 7
+Number of GO Terms: 4
+GO Terms: ['GO:0046906', 'GO:0051015', 'GO:0017171', 'GO:0003713']
+Number of samples: 2346
+Mean IR: 1.014
+
+Model 2277, level: 3, bucket: 500, subindex: 8
+Number of GO Terms: 4
+GO Terms: ['GO:0008135', 'GO:0004721', 'GO:0042393', 'GO:0043021']
+Number of samples: 2356
+Mean IR: 1.031
+
+Model 2278, level: 3, bucket: 500, subindex: 9
+Number of GO Terms: 4
+GO Terms: ['GO:0016879', 'GO:0016830', 'GO:0005342', 'GO:0016875']
+Number of samples: 2624
+Mean IR: 1.027
+
+Model 2279, level: 3, bucket: 500, subindex: 10
+Number of GO Terms: 4
+GO Terms: ['GO:0019207', 'GO:0004497', 'GO:0016651', 'GO:0016765']
+Number of samples: 2830
+Mean IR: 1.076
+
+Model 2280, level: 3, bucket: 500, subindex: 11
+Number of GO Terms: 4
+GO Terms: ['GO:0050839', 'GO:0060589', 'GO:0001216', 'GO:0042277']
+Number of samples: 3361
+Mean IR: 1.048
+
+Model 2281, level: 3, bucket: 500, subindex: 12
+Number of GO Terms: 4
+GO Terms: ['GO:0009055', 'GO:0016705', 'GO:0016810', 'GO:0016835']
+Number of samples: 3761
+Mean IR: 1.010
+
+Model 2282, level: 3, bucket: 500, subindex: 13
+Number of GO Terms: 4
+GO Terms: ['GO:0004857', 'GO:0016798', 'GO:0008047', 'GO:0005543']
+Number of samples: 4066
+Mean IR: 1.083
+
+Model 2283, level: 3, bucket: 500, subindex: 14
+Number of GO Terms: 4
+GO Terms: ['GO:0030546', 'GO:0016614', 'GO:0019787', 'GO:0140097']
+Number of samples: 4859
+Mean IR: 1.090
+
+Model 2284, level: 3, bucket: 500, subindex: 15
+Number of GO Terms: 4
+GO Terms: ['GO:0019904', 'GO:0022803', 'GO:0008134', 'GO:0016741']
+Number of samples: 5279
+Mean IR: 1.105
+
+Model 2285, level: 3, bucket: 500, subindex: 16
+Number of GO Terms: 4
+GO Terms: ['GO:0016746', 'GO:0016757', 'GO:0016817', 'GO:0004672']
+Number of samples: 7037
+Mean IR: 1.310
+
+Model 2286, level: 3, bucket: 500, subindex: 17
+Number of GO Terms: 4
+GO Terms: ['GO:0008233', 'GO:0004888', 'GO:0008092', 'GO:0022804']
+Number of samples: 9450
+Mean IR: 1.022
+
+Model 2287, level: 3, bucket: 500, subindex: 18
+Number of GO Terms: 4
+GO Terms: ['GO:0032553', 'GO:0140098', 'GO:0046983', 'GO:0015318']
+Number of samples: 10232
+Mean IR: 1.028
+
+Model 2288, level: 3, bucket: 500, subindex: 19
+Number of GO Terms: 4
+GO Terms: ['GO:0000981', 'GO:0015075', 'GO:0005102', 'GO:0000166']
+Number of samples: 13142
+Mean IR: 1.101
+
+Model 2289, level: 3, bucket: 500, subindex: 20
+Number of GO Terms: 4
+GO Terms: ['GO:1901265', 'GO:0016788', 'GO:0019899', 'GO:0043168']
+Number of samples: 12258
+Mean IR: 1.128
+
+Model 2290, level: 3, bucket: 500, subindex: 21
+Number of GO Terms: 4
+GO Terms: ['GO:0043169', 'GO:0016772', 'GO:0042802', 'GO:0003676']
+Number of samples: 24779
+Mean IR: 2.029
+
+Model 2419, level: 4, bucket: 30, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0016781', 'GO:0008661', 'GO:0008987', 'GO:0016625', 'GO:0031013']
+Number of samples: 90
+Mean IR: 1.000
+
+Model 2420, level: 4, bucket: 30, subindex: 1
+Number of GO Terms: 5
+GO Terms: ['GO:0034353', 'GO:0042124', 'GO:0050544', 'GO:0016731', 'GO:0015344']
+Number of samples: 91
+Mean IR: 1.020
+
+Model 2421, level: 4, bucket: 30, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:0101021', 'GO:0003917', 'GO:0005290', 'GO:0008685']
+Number of samples: 76
+Mean IR: 1.008
+
+Model 2422, level: 4, bucket: 30, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0016723', 'GO:0048495', 'GO:0051379', 'GO:0051380']
+Number of samples: 69
+Mean IR: 1.000
+
+Model 2423, level: 4, bucket: 30, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0080146', 'GO:0004802', 'GO:0015424', 'GO:0017154']
+Number of samples: 79
+Mean IR: 1.008
+
+Model 2424, level: 4, bucket: 30, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0032051', 'GO:0070740', 'GO:0004123', 'GO:0019788']
+Number of samples: 80
+Mean IR: 1.015
+
+Model 2425, level: 4, bucket: 30, subindex: 6
+Number of GO Terms: 4
+GO Terms: ['GO:0031721', 'GO:0031996', 'GO:0043208', 'GO:0046703']
+Number of samples: 82
+Mean IR: 1.000
+
+Model 2426, level: 4, bucket: 30, subindex: 7
+Number of GO Terms: 4
+GO Terms: ['GO:0016623', 'GO:0004342', 'GO:0016901', 'GO:0005035']
+Number of samples: 84
+Mean IR: 1.000
+
+Model 2427, level: 4, bucket: 30, subindex: 8
+Number of GO Terms: 4
+GO Terms: ['GO:0008504', 'GO:0008330', 'GO:0016843', 'GO:0019103']
+Number of samples: 84
+Mean IR: 1.000
+
+Model 2428, level: 4, bucket: 30, subindex: 9
+Number of GO Terms: 4
+GO Terms: ['GO:0023026', 'GO:0034452', 'GO:0043035', 'GO:0048407']
+Number of samples: 84
+Mean IR: 1.000
+
+Model 2429, level: 4, bucket: 30, subindex: 10
+Number of GO Terms: 4
+GO Terms: ['GO:0050700', 'GO:0071568', 'GO:2001069', 'GO:0003810']
+Number of samples: 85
+Mean IR: 1.021
+
+Model 2430, level: 4, bucket: 30, subindex: 11
+Number of GO Terms: 4
+GO Terms: ['GO:0004106', 'GO:0004124', 'GO:0015168', 'GO:0033765']
+Number of samples: 87
+Mean IR: 1.021
+
+Model 2431, level: 4, bucket: 30, subindex: 12
+Number of GO Terms: 4
+GO Terms: ['GO:0004789', 'GO:0008121', 'GO:0035325', 'GO:0051400']
+Number of samples: 89
+Mean IR: 1.000
+
+Model 2432, level: 4, bucket: 30, subindex: 13
+Number of GO Terms: 4
+GO Terms: ['GO:0016802', 'GO:0015204', 'GO:0015234', 'GO:0017128']
+Number of samples: 91
+Mean IR: 1.000
+
+Model 2433, level: 4, bucket: 30, subindex: 14
+Number of GO Terms: 4
+GO Terms: ['GO:0042806', 'GO:0043121', 'GO:0071837', 'GO:0034235']
+Number of samples: 92
+Mean IR: 1.020
+
+Model 2434, level: 4, bucket: 30, subindex: 15
+Number of GO Terms: 4
+GO Terms: ['GO:0008452', 'GO:0016708', 'GO:0098809', 'GO:0017150']
+Number of samples: 94
+Mean IR: 1.000
+
+Model 2435, level: 4, bucket: 30, subindex: 16
+Number of GO Terms: 4
+GO Terms: ['GO:0017151', 'GO:0032217', 'GO:0035375', 'GO:0052592']
+Number of samples: 94
+Mean IR: 1.000
+
+Model 2436, level: 4, bucket: 30, subindex: 17
+Number of GO Terms: 4
+GO Terms: ['GO:0070401', 'GO:0004637', 'GO:0031419', 'GO:0140333']
+Number of samples: 95
+Mean IR: 1.006
+
+Model 2437, level: 4, bucket: 30, subindex: 18
+Number of GO Terms: 4
+GO Terms: ['GO:0000293', 'GO:0016642', 'GO:0019198', 'GO:0043211']
+Number of samples: 98
+Mean IR: 1.000
+
+Model 2438, level: 4, bucket: 30, subindex: 19
+Number of GO Terms: 4
+GO Terms: ['GO:0042975', 'GO:0055105', 'GO:0070404', 'GO:0070742']
+Number of samples: 97
+Mean IR: 1.000
+
+Model 2439, level: 4, bucket: 30, subindex: 20
+Number of GO Terms: 4
+GO Terms: ['GO:0101020', 'GO:0000906', 'GO:0042043', 'GO:0070513']
+Number of samples: 100
+Mean IR: 1.006
+
+Model 2440, level: 4, bucket: 30, subindex: 21
+Number of GO Terms: 4
+GO Terms: ['GO:0009008', 'GO:0015462', 'GO:0099528', 'GO:0019863']
+Number of samples: 103
+Mean IR: 1.000
+
+Model 2441, level: 4, bucket: 30, subindex: 22
+Number of GO Terms: 4
+GO Terms: ['GO:0031005', 'GO:0140035', 'GO:1902387', 'GO:0002060']
+Number of samples: 104
+Mean IR: 1.017
+
+Model 2442, level: 4, bucket: 30, subindex: 23
+Number of GO Terms: 4
+GO Terms: ['GO:0019841', 'GO:0030337', 'GO:0004055', 'GO:0004661']
+Number of samples: 107
+Mean IR: 1.011
+
+Model 2443, level: 4, bucket: 30, subindex: 24
+Number of GO Terms: 4
+GO Terms: ['GO:0008940', 'GO:0016176', 'GO:0048030', 'GO:0030550']
+Number of samples: 108
+Mean IR: 1.000
+
+Model 2444, level: 4, bucket: 30, subindex: 25
+Number of GO Terms: 4
+GO Terms: ['GO:0031559', 'GO:0004418', 'GO:0008179', 'GO:0033284']
+Number of samples: 110
+Mean IR: 1.000
+
+Model 2445, level: 4, bucket: 30, subindex: 26
+Number of GO Terms: 4
+GO Terms: ['GO:0016662', 'GO:0030284', 'GO:0050811', 'GO:0042609']
+Number of samples: 110
+Mean IR: 1.000
+
+Model 2446, level: 4, bucket: 30, subindex: 27
+Number of GO Terms: 4
+GO Terms: ['GO:0005534', 'GO:0033130', 'GO:0070679', 'GO:0001972']
+Number of samples: 113
+Mean IR: 1.016
+
+Model 2447, level: 4, bucket: 30, subindex: 28
+Number of GO Terms: 4
+GO Terms: ['GO:0016647', 'GO:0015440', 'GO:0032183', 'GO:0050321']
+Number of samples: 115
+Mean IR: 1.000
+
+Model 2448, level: 4, bucket: 30, subindex: 29
+Number of GO Terms: 4
+GO Terms: ['GO:0070003', 'GO:0034236', 'GO:0036122', 'GO:0000099']
+Number of samples: 118
+Mean IR: 1.015
+
+Model 2449, level: 4, bucket: 30, subindex: 30
+Number of GO Terms: 4
+GO Terms: ['GO:0008559', 'GO:0008656', 'GO:0031432', 'GO:0052381']
+Number of samples: 120
+Mean IR: 1.000
+
+Model 2450, level: 4, bucket: 30, subindex: 31
+Number of GO Terms: 4
+GO Terms: ['GO:0097027', 'GO:0016699', 'GO:0036009', 'GO:0003984']
+Number of samples: 122
+Mean IR: 1.020
+
+Model 2451, level: 4, bucket: 30, subindex: 32
+Number of GO Terms: 4
+GO Terms: ['GO:0005078', 'GO:0030275', 'GO:0030553', 'GO:0042813']
+Number of samples: 125
+Mean IR: 1.000
+
+Model 2452, level: 4, bucket: 30, subindex: 33
+Number of GO Terms: 4
+GO Terms: ['GO:0120016', 'GO:0016670', 'GO:0004875', 'GO:0003866']
+Number of samples: 128
+Mean IR: 1.010
+
+Model 2453, level: 4, bucket: 30, subindex: 34
+Number of GO Terms: 4
+GO Terms: ['GO:0003883', 'GO:0005047', 'GO:0005540', 'GO:0009378']
+Number of samples: 130
+Mean IR: 1.000
+
+Model 2454, level: 4, bucket: 30, subindex: 35
+Number of GO Terms: 4
+GO Terms: ['GO:0070411', 'GO:0004126', 'GO:0008429', 'GO:0042301']
+Number of samples: 131
+Mean IR: 1.005
+
+Model 2455, level: 4, bucket: 30, subindex: 36
+Number of GO Terms: 4
+GO Terms: ['GO:0050998', 'GO:0003921', 'GO:0000150', 'GO:0005345']
+Number of samples: 135
+Mean IR: 1.014
+
+Model 2456, level: 4, bucket: 30, subindex: 37
+Number of GO Terms: 4
+GO Terms: ['GO:0052856', 'GO:0052857', 'GO:0055102', 'GO:0015166']
+Number of samples: 104
+Mean IR: 1.009
+
+Model 2457, level: 4, bucket: 30, subindex: 38
+Number of GO Terms: 4
+GO Terms: ['GO:0005536', 'GO:0008410', 'GO:0033549', 'GO:0070412']
+Number of samples: 140
+Mean IR: 1.009
+
+Model 2458, level: 4, bucket: 30, subindex: 39
+Number of GO Terms: 4
+GO Terms: ['GO:0060229', 'GO:0016714', 'GO:0017162', 'GO:0016899']
+Number of samples: 149
+Mean IR: 1.016
+
+Model 2459, level: 4, bucket: 30, subindex: 40
+Number of GO Terms: 4
+GO Terms: ['GO:0004738', 'GO:0008554', 'GO:0017116', 'GO:0048019']
+Number of samples: 152
+Mean IR: 1.012
+
+Model 2460, level: 4, bucket: 30, subindex: 41
+Number of GO Terms: 4
+GO Terms: ['GO:0005337', 'GO:0005523', 'GO:0032050', 'GO:0090563']
+Number of samples: 154
+Mean IR: 1.000
+
+Model 2461, level: 4, bucket: 30, subindex: 42
+Number of GO Terms: 4
+GO Terms: ['GO:0016823', 'GO:0004803', 'GO:0030506', 'GO:0046910']
+Number of samples: 156
+Mean IR: 1.000
+
+Model 2462, level: 4, bucket: 30, subindex: 43
+Number of GO Terms: 4
+GO Terms: ['GO:0016421', 'GO:0016713', 'GO:0034979', 'GO:0016728']
+Number of samples: 159
+Mean IR: 1.011
+
+Model 2463, level: 4, bucket: 30, subindex: 44
+Number of GO Terms: 4
+GO Terms: ['GO:0030548', 'GO:0043139', 'GO:0000104', 'GO:0016502']
+Number of samples: 162
+Mean IR: 1.007
+
+Model 2464, level: 4, bucket: 30, subindex: 45
+Number of GO Terms: 4
+GO Terms: ['GO:0016594', 'GO:0030215', 'GO:0036041', 'GO:0042834']
+Number of samples: 166
+Mean IR: 1.000
+
+Model 2465, level: 4, bucket: 30, subindex: 46
+Number of GO Terms: 4
+GO Terms: ['GO:0031404', 'GO:0070182', 'GO:0003995', 'GO:0008484']
+Number of samples: 170
+Mean IR: 1.014
+
+Model 2466, level: 4, bucket: 30, subindex: 47
+Number of GO Terms: 4
+GO Terms: ['GO:0030552', 'GO:0008079', 'GO:0008525', 'GO:0034618']
+Number of samples: 175
+Mean IR: 1.003
+
+Model 2467, level: 4, bucket: 30, subindex: 48
+Number of GO Terms: 4
+GO Terms: ['GO:0035014', 'GO:0050497', 'GO:0016724', 'GO:0035381']
+Number of samples: 176
+Mean IR: 1.007
+
+Model 2468, level: 4, bucket: 30, subindex: 49
+Number of GO Terms: 4
+GO Terms: ['GO:0140033', 'GO:0070577', 'GO:0005315', 'GO:0015464']
+Number of samples: 134
+Mean IR: 1.007
+
+Model 2469, level: 4, bucket: 30, subindex: 50
+Number of GO Terms: 4
+GO Terms: ['GO:0035615', 'GO:0016653', 'GO:0051998', 'GO:0004478']
+Number of samples: 183
+Mean IR: 1.010
+
+Model 2470, level: 4, bucket: 30, subindex: 51
+Number of GO Terms: 4
+GO Terms: ['GO:0035035', 'GO:0043274', 'GO:0120015', 'GO:0016837']
+Number of samples: 188
+Mean IR: 1.032
+
+Model 2471, level: 4, bucket: 30, subindex: 52
+Number of GO Terms: 4
+GO Terms: ['GO:0017134', 'GO:0070905', 'GO:0016682', 'GO:0004000']
+Number of samples: 196
+Mean IR: 1.015
+
+Model 2472, level: 4, bucket: 30, subindex: 53
+Number of GO Terms: 4
+GO Terms: ['GO:0031370', 'GO:0004457', 'GO:0016917', 'GO:0004019']
+Number of samples: 204
+Mean IR: 1.012
+
+Model 2473, level: 4, bucket: 30, subindex: 54
+Number of GO Terms: 4
+GO Terms: ['GO:0016882', 'GO:0017081', 'GO:0034237', 'GO:0043325']
+Number of samples: 207
+Mean IR: 1.009
+
+Model 2474, level: 4, bucket: 30, subindex: 55
+Number of GO Terms: 4
+GO Terms: ['GO:0046875', 'GO:0048156', 'GO:0003909', 'GO:0005388']
+Number of samples: 209
+Mean IR: 1.011
+
+Model 2475, level: 4, bucket: 30, subindex: 56
+Number of GO Terms: 4
+GO Terms: ['GO:0008373', 'GO:0070300', 'GO:0035173', 'GO:0042923']
+Number of samples: 218
+Mean IR: 1.011
+
+Model 2476, level: 4, bucket: 30, subindex: 57
+Number of GO Terms: 4
+GO Terms: ['GO:0050699', 'GO:0015116', 'GO:0005520', 'GO:0008391']
+Number of samples: 224
+Mean IR: 1.008
+
+Model 2477, level: 4, bucket: 30, subindex: 58
+Number of GO Terms: 4
+GO Terms: ['GO:0019789', 'GO:0005159', 'GO:0000822', 'GO:0016635']
+Number of samples: 229
+Mean IR: 1.008
+
+Model 2478, level: 4, bucket: 30, subindex: 59
+Number of GO Terms: 4
+GO Terms: ['GO:0016639', 'GO:0016634', 'GO:0016803', 'GO:0031492']
+Number of samples: 235
+Mean IR: 1.013
+
+Model 2384, level: 4, bucket: 100, subindex: 0
+Number of GO Terms: 4
+GO Terms: ['GO:0008138', 'GO:0008190', 'GO:0019211', 'GO:0008327']
+Number of samples: 241
+Mean IR: 1.008
+
+Model 2385, level: 4, bucket: 100, subindex: 1
+Number of GO Terms: 4
+GO Terms: ['GO:0008553', 'GO:0015157', 'GO:0016863', 'GO:0005537']
+Number of samples: 245
+Mean IR: 1.010
+
+Model 2386, level: 4, bucket: 100, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:1900750', 'GO:0015108', 'GO:0005112', 'GO:0042287']
+Number of samples: 253
+Mean IR: 1.007
+
+Model 2387, level: 4, bucket: 100, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0016743', 'GO:0016842', 'GO:0016880', 'GO:0050664']
+Number of samples: 261
+Mean IR: 1.002
+
+Model 2388, level: 4, bucket: 100, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0016624', 'GO:0016778', 'GO:0005338', 'GO:0071813']
+Number of samples: 266
+Mean IR: 1.009
+
+Model 2389, level: 4, bucket: 100, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0008556', 'GO:0033764', 'GO:0030159', 'GO:0016813']
+Number of samples: 281
+Mean IR: 1.009
+
+Model 2390, level: 4, bucket: 100, subindex: 6
+Number of GO Terms: 4
+GO Terms: ['GO:0019894', 'GO:1901611', 'GO:0016274', 'GO:0140666']
+Number of samples: 289
+Mean IR: 1.006
+
+Model 2391, level: 4, bucket: 100, subindex: 7
+Number of GO Terms: 4
+GO Terms: ['GO:0003906', 'GO:0043027', 'GO:0005346', 'GO:0016918']
+Number of samples: 301
+Mean IR: 1.014
+
+Model 2392, level: 4, bucket: 100, subindex: 8
+Number of GO Terms: 4
+GO Terms: ['GO:0016855', 'GO:0004407', 'GO:0042169', 'GO:0016717']
+Number of samples: 308
+Mean IR: 1.012
+
+Model 2393, level: 4, bucket: 100, subindex: 9
+Number of GO Terms: 4
+GO Terms: ['GO:0016615', 'GO:0016841', 'GO:0120014', 'GO:0097718']
+Number of samples: 315
+Mean IR: 1.006
+
+Model 2394, level: 4, bucket: 100, subindex: 10
+Number of GO Terms: 4
+GO Terms: ['GO:0016812', 'GO:0005343', 'GO:0008066', 'GO:0005547']
+Number of samples: 328
+Mean IR: 1.011
+
+Model 2395, level: 4, bucket: 100, subindex: 11
+Number of GO Terms: 4
+GO Terms: ['GO:0043023', 'GO:0080025', 'GO:0043138', 'GO:0016864']
+Number of samples: 338
+Mean IR: 1.009
+
+Model 2396, level: 4, bucket: 100, subindex: 12
+Number of GO Terms: 4
+GO Terms: ['GO:0004712', 'GO:0005402', 'GO:0016018', 'GO:0005246']
+Number of samples: 342
+Mean IR: 1.009
+
+Model 2397, level: 4, bucket: 100, subindex: 13
+Number of GO Terms: 4
+GO Terms: ['GO:0016504', 'GO:0016641', 'GO:0010857', 'GO:0017166']
+Number of samples: 350
+Mean IR: 1.005
+
+Model 2398, level: 4, bucket: 100, subindex: 14
+Number of GO Terms: 4
+GO Terms: ['GO:0070325', 'GO:0070403', 'GO:0099589', 'GO:0070402']
+Number of samples: 354
+Mean IR: 1.003
+
+Model 2399, level: 4, bucket: 100, subindex: 15
+Number of GO Terms: 4
+GO Terms: ['GO:0017080', 'GO:0030551', 'GO:0070001', 'GO:0004402']
+Number of samples: 366
+Mean IR: 1.010
+
+Model 2400, level: 4, bucket: 100, subindex: 16
+Number of GO Terms: 4
+GO Terms: ['GO:0098631', 'GO:0032452', 'GO:0008200', 'GO:0019956']
+Number of samples: 378
+Mean IR: 1.010
+
+Model 2401, level: 4, bucket: 100, subindex: 17
+Number of GO Terms: 4
+GO Terms: ['GO:0035254', 'GO:0047134', 'GO:0004673', 'GO:0045309']
+Number of samples: 388
+Mean IR: 1.008
+
+Model 2402, level: 4, bucket: 100, subindex: 18
+Number of GO Terms: 4
+GO Terms: ['GO:0043024', 'GO:0016857', 'GO:0016833', 'GO:0019706']
+Number of samples: 400
+Mean IR: 1.003
+
+Model 2403, level: 4, bucket: 100, subindex: 19
+Number of GO Terms: 4
+GO Terms: ['GO:0050431', 'GO:0016208', 'GO:0015215', 'GO:0033612']
+Number of samples: 406
+Mean IR: 1.006
+
+Model 2404, level: 4, bucket: 100, subindex: 20
+Number of GO Terms: 4
+GO Terms: ['GO:0016671', 'GO:0005372', 'GO:0030374', 'GO:0051879']
+Number of samples: 416
+Mean IR: 1.009
+
+Model 2405, level: 4, bucket: 100, subindex: 21
+Number of GO Terms: 4
+GO Terms: ['GO:0019212', 'GO:0046912', 'GO:0008020', 'GO:0019104']
+Number of samples: 430
+Mean IR: 1.011
+
+Model 2406, level: 4, bucket: 100, subindex: 22
+Number of GO Terms: 4
+GO Terms: ['GO:0034987', 'GO:0005544', 'GO:0051427', 'GO:0044390']
+Number of samples: 447
+Mean IR: 1.010
+
+Model 2407, level: 4, bucket: 100, subindex: 23
+Number of GO Terms: 4
+GO Terms: ['GO:0044769', 'GO:0046961', 'GO:0008527', 'GO:0030971']
+Number of samples: 347
+Mean IR: 1.028
+
+Model 2408, level: 4, bucket: 100, subindex: 24
+Number of GO Terms: 4
+GO Terms: ['GO:0016774', 'GO:0030544', 'GO:0042805', 'GO:0097472']
+Number of samples: 478
+Mean IR: 1.008
+
+Model 2409, level: 4, bucket: 100, subindex: 25
+Number of GO Terms: 4
+GO Terms: ['GO:0008146', 'GO:0015485', 'GO:0016884', 'GO:0015459']
+Number of samples: 491
+Mean IR: 1.011
+
+Model 2410, level: 4, bucket: 100, subindex: 26
+Number of GO Terms: 4
+GO Terms: ['GO:0004801', 'GO:0016868', 'GO:0097747', 'GO:0001221']
+Number of samples: 518
+Mean IR: 1.039
+
+Model 2411, level: 4, bucket: 100, subindex: 27
+Number of GO Terms: 4
+GO Terms: ['GO:0005501', 'GO:0016742', 'GO:0016668', 'GO:0022835']
+Number of samples: 545
+Mean IR: 1.021
+
+Model 2412, level: 4, bucket: 100, subindex: 28
+Number of GO Terms: 4
+GO Terms: ['GO:0010181', 'GO:0016712', 'GO:0009982', 'GO:0016832']
+Number of samples: 563
+Mean IR: 1.009
+
+Model 2413, level: 4, bucket: 100, subindex: 29
+Number of GO Terms: 4
+GO Terms: ['GO:0017124', 'GO:0140296', 'GO:0008395', 'GO:0016783']
+Number of samples: 582
+Mean IR: 1.006
+
+Model 2414, level: 4, bucket: 100, subindex: 30
+Number of GO Terms: 4
+GO Terms: ['GO:0016775', 'GO:0043531', 'GO:0098960', 'GO:0001540']
+Number of samples: 595
+Mean IR: 1.014
+
+Model 2415, level: 4, bucket: 100, subindex: 31
+Number of GO Terms: 4
+GO Terms: ['GO:0140034', 'GO:0035064', 'GO:0061650', 'GO:1904680']
+Number of samples: 463
+Mean IR: 1.005
+
+Model 2416, level: 4, bucket: 100, subindex: 32
+Number of GO Terms: 4
+GO Terms: ['GO:0051537', 'GO:0016646', 'GO:0031593', 'GO:0051119']
+Number of samples: 627
+Mean IR: 1.011
+
+Model 2417, level: 4, bucket: 100, subindex: 33
+Number of GO Terms: 4
+GO Terms: ['GO:0004129', 'GO:0016405', 'GO:0019210', 'GO:0001099']
+Number of samples: 659
+Mean IR: 1.005
+
+Model 2418, level: 4, bucket: 100, subindex: 34
+Number of GO Terms: 4
+GO Terms: ['GO:0004364', 'GO:0019905', 'GO:0015662', 'GO:0017022']
+Number of samples: 691
+Mean IR: 1.009
+
+Model 2374, level: 4, bucket: 300, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0016790', 'GO:0016628', 'GO:0016780', 'GO:0016838', 'GO:0005048']
+Number of samples: 914
+Mean IR: 1.013
+
+Model 2375, level: 4, bucket: 300, subindex: 1
+Number of GO Terms: 4
+GO Terms: ['GO:0070063', 'GO:0016279', 'GO:0032934', 'GO:0030165']
+Number of samples: 752
+Mean IR: 1.015
+
+Model 2376, level: 4, bucket: 300, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:0042826', 'GO:0016881', 'GO:0034061', 'GO:0016878']
+Number of samples: 780
+Mean IR: 1.016
+
+Model 2377, level: 4, bucket: 300, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0042054', 'GO:0016799', 'GO:0019003', 'GO:0004725']
+Number of samples: 821
+Mean IR: 1.036
+
+Model 2378, level: 4, bucket: 300, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0003746', 'GO:0004896', 'GO:0005546', 'GO:0016702']
+Number of samples: 880
+Mean IR: 1.023
+
+Model 2379, level: 4, bucket: 300, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0016706', 'GO:0019888', 'GO:0051117', 'GO:0015036']
+Number of samples: 915
+Mean IR: 1.020
+
+Model 2380, level: 4, bucket: 300, subindex: 6
+Number of GO Terms: 4
+GO Terms: ['GO:0004659', 'GO:0140102', 'GO:0050661', 'GO:0019209']
+Number of samples: 979
+Mean IR: 1.058
+
+Model 2381, level: 4, bucket: 300, subindex: 7
+Number of GO Terms: 4
+GO Terms: ['GO:0070851', 'GO:0016814', 'GO:0051287', 'GO:0043130']
+Number of samples: 1061
+Mean IR: 1.006
+
+Model 2382, level: 4, bucket: 300, subindex: 8
+Number of GO Terms: 4
+GO Terms: ['GO:0019199', 'GO:0016597', 'GO:0004984', 'GO:0008483']
+Number of samples: 1084
+Mean IR: 1.009
+
+Model 2383, level: 4, bucket: 300, subindex: 9
+Number of GO Terms: 4
+GO Terms: ['GO:0016861', 'GO:0002020', 'GO:0045296', 'GO:0016709']
+Number of samples: 1134
+Mean IR: 1.018
+
+Model 2353, level: 4, bucket: 500, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0004722', 'GO:0016776', 'GO:0043022', 'GO:0004713', 'GO:0003743']
+Number of samples: 1520
+Mean IR: 1.039
+
+Model 2354, level: 4, bucket: 500, subindex: 1
+Number of GO Terms: 5
+GO Terms: ['GO:0004536', 'GO:0008242', 'GO:0030170', 'GO:0016620', 'GO:0008528']
+Number of samples: 1733
+Mean IR: 1.063
+
+Model 2355, level: 4, bucket: 500, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:0051539', 'GO:0005244', 'GO:0016831', 'GO:0008238']
+Number of samples: 1576
+Mean IR: 1.067
+
+Model 2356, level: 4, bucket: 500, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0016763', 'GO:0008137', 'GO:0019902', 'GO:0001227']
+Number of samples: 1717
+Mean IR: 1.028
+
+Model 2357, level: 4, bucket: 500, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0005096', 'GO:0030414', 'GO:0050660', 'GO:0061135']
+Number of samples: 1404
+Mean IR: 1.017
+
+Model 2358, level: 4, bucket: 500, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0051020', 'GO:0003954', 'GO:0015103', 'GO:0016811']
+Number of samples: 1941
+Mean IR: 1.027
+
+Model 2359, level: 4, bucket: 500, subindex: 6
+Number of GO Terms: 4
+GO Terms: ['GO:0031406', 'GO:0016655', 'GO:0008173', 'GO:0008237']
+Number of samples: 2089
+Mean IR: 1.035
+
+Model 2360, level: 4, bucket: 500, subindex: 7
+Number of GO Terms: 4
+GO Terms: ['GO:0008194', 'GO:0020037', 'GO:0016298', 'GO:0008236']
+Number of samples: 2204
+Mean IR: 1.030
+
+Model 2361, level: 4, bucket: 500, subindex: 8
+Number of GO Terms: 4
+GO Terms: ['GO:0019887', 'GO:0008234', 'GO:0035091', 'GO:0046943']
+Number of samples: 2527
+Mean IR: 1.028
+
+Model 2362, level: 4, bucket: 500, subindex: 9
+Number of GO Terms: 4
+GO Terms: ['GO:0046982', 'GO:0004540', 'GO:0044389', 'GO:0004812']
+Number of samples: 2630
+Mean IR: 1.013
+
+Model 2363, level: 4, bucket: 500, subindex: 10
+Number of GO Terms: 4
+GO Terms: ['GO:0016836', 'GO:0061659', 'GO:0005126', 'GO:0001228']
+Number of samples: 2794
+Mean IR: 1.046
+
+Model 2364, level: 4, bucket: 500, subindex: 11
+Number of GO Terms: 4
+GO Terms: ['GO:0052689', 'GO:0004553', 'GO:0001664', 'GO:0015291']
+Number of samples: 3223
+Mean IR: 1.012
+
+Model 2365, level: 4, bucket: 500, subindex: 12
+Number of GO Terms: 4
+GO Terms: ['GO:0016779', 'GO:0030695', 'GO:0140297', 'GO:0003779']
+Number of samples: 3549
+Mean IR: 1.066
+
+Model 2366, level: 4, bucket: 500, subindex: 13
+Number of GO Terms: 4
+GO Terms: ['GO:0015631', 'GO:0016758', 'GO:0016616', 'GO:0005216']
+Number of samples: 4183
+Mean IR: 1.032
+
+Model 2367, level: 4, bucket: 500, subindex: 14
+Number of GO Terms: 4
+GO Terms: ['GO:0004842', 'GO:0004930', 'GO:0004518', 'GO:0048018']
+Number of samples: 4450
+Mean IR: 1.022
+
+Model 2368, level: 4, bucket: 500, subindex: 15
+Number of GO Terms: 4
+GO Terms: ['GO:0008509', 'GO:0022853', 'GO:0140101', 'GO:0008168']
+Number of samples: 4316
+Mean IR: 1.065
+
+Model 2369, level: 4, bucket: 500, subindex: 16
+Number of GO Terms: 4
+GO Terms: ['GO:0015267', 'GO:0016747', 'GO:0004175', 'GO:0019900']
+Number of samples: 5547
+Mean IR: 1.088
+
+Model 2370, level: 4, bucket: 500, subindex: 17
+Number of GO Terms: 4
+GO Terms: ['GO:0015399', 'GO:0004674', 'GO:0016818', 'GO:0042578']
+Number of samples: 6423
+Mean IR: 1.031
+
+Model 2371, level: 4, bucket: 500, subindex: 18
+Number of GO Terms: 4
+GO Terms: ['GO:0042803', 'GO:0022890', 'GO:0035639', 'GO:0008324']
+Number of samples: 6618
+Mean IR: 1.092
+
+Model 2372, level: 4, bucket: 500, subindex: 19
+Number of GO Terms: 4
+GO Terms: ['GO:0032555', 'GO:0017076', 'GO:0016773', 'GO:0016301']
+Number of samples: 5988
+Mean IR: 1.282
+
+Model 2373, level: 4, bucket: 500, subindex: 20
+Number of GO Terms: 4
+GO Terms: ['GO:0001067', 'GO:0046872', 'GO:0003723', 'GO:0003677']
+Number of samples: 15985
+Mean IR: 1.384
+
+Model 2526, level: 5, bucket: 30, subindex: 0
+Number of GO Terms: 4
+GO Terms: ['GO:0000064', 'GO:0003855', 'GO:0003978', 'GO:0003989']
+Number of samples: 72
+Mean IR: 1.000
+
+Model 2527, level: 5, bucket: 30, subindex: 1
+Number of GO Terms: 4
+GO Terms: ['GO:0004020', 'GO:0004090', 'GO:0004151', 'GO:0004420']
+Number of samples: 72
+Mean IR: 1.000
+
+Model 2528, level: 5, bucket: 30, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:0008810', 'GO:0016793', 'GO:0008966', 'GO:0010436']
+Number of samples: 72
+Mean IR: 1.000
+
+Model 2529, level: 5, bucket: 30, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0032027', 'GO:0042289', 'GO:0047453', 'GO:1990757']
+Number of samples: 72
+Mean IR: 1.000
+
+Model 2530, level: 5, bucket: 30, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0004952', 'GO:0004591', 'GO:0004853', 'GO:0005452']
+Number of samples: 74
+Mean IR: 1.000
+
+Model 2531, level: 5, bucket: 30, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0036080', 'GO:0015193', 'GO:0016165', 'GO:0050542']
+Number of samples: 74
+Mean IR: 1.000
+
+Model 2532, level: 5, bucket: 30, subindex: 6
+Number of GO Terms: 4
+GO Terms: ['GO:0051377', 'GO:0097177', 'GO:0051766', 'GO:0003998']
+Number of samples: 76
+Mean IR: 1.016
+
+Model 2533, level: 5, bucket: 30, subindex: 7
+Number of GO Terms: 4
+GO Terms: ['GO:0004031', 'GO:0004072', 'GO:0004139', 'GO:0004592']
+Number of samples: 77
+Mean IR: 1.000
+
+Model 2534, level: 5, bucket: 30, subindex: 8
+Number of GO Terms: 4
+GO Terms: ['GO:0004655', 'GO:0004977', 'GO:0046923', 'GO:0008131']
+Number of samples: 77
+Mean IR: 1.000
+
+Model 2535, level: 5, bucket: 30, subindex: 9
+Number of GO Terms: 4
+GO Terms: ['GO:0008863', 'GO:0008929', 'GO:0030283', 'GO:0031821']
+Number of samples: 77
+Mean IR: 1.000
+
+Model 2536, level: 5, bucket: 30, subindex: 10
+Number of GO Terms: 4
+GO Terms: ['GO:0034647', 'GO:0046429', 'GO:0050543', 'GO:0098988']
+Number of samples: 77
+Mean IR: 1.023
+
+Model 2537, level: 5, bucket: 30, subindex: 11
+Number of GO Terms: 4
+GO Terms: ['GO:0004084', 'GO:0004425', 'GO:0004564', 'GO:0004594']
+Number of samples: 79
+Mean IR: 1.000
+
+Model 2538, level: 5, bucket: 30, subindex: 12
+Number of GO Terms: 4
+GO Terms: ['GO:0005068', 'GO:0008783', 'GO:0008834', 'GO:0016972']
+Number of samples: 79
+Mean IR: 1.000
+
+Model 2539, level: 5, bucket: 30, subindex: 13
+Number of GO Terms: 4
+GO Terms: ['GO:0018812', 'GO:0030604', 'GO:0043522', 'GO:1990948']
+Number of samples: 79
+Mean IR: 1.000
+
+Model 2540, level: 5, bucket: 30, subindex: 14
+Number of GO Terms: 4
+GO Terms: ['GO:0003958', 'GO:0003973', 'GO:0003991', 'GO:0004076']
+Number of samples: 82
+Mean IR: 1.000
+
+Model 2541, level: 5, bucket: 30, subindex: 15
+Number of GO Terms: 4
+GO Terms: ['GO:0004146', 'GO:0004511', 'GO:0004614', 'GO:0004794']
+Number of samples: 82
+Mean IR: 1.000
+
+Model 2542, level: 5, bucket: 30, subindex: 16
+Number of GO Terms: 4
+GO Terms: ['GO:0004828', 'GO:0005149', 'GO:0008177', 'GO:0008800']
+Number of samples: 82
+Mean IR: 1.000
+
+Model 2543, level: 5, bucket: 30, subindex: 17
+Number of GO Terms: 4
+GO Terms: ['GO:0008839', 'GO:0008897', 'GO:0036054', 'GO:0046556']
+Number of samples: 82
+Mean IR: 1.000
+
+Model 2544, level: 5, bucket: 30, subindex: 18
+Number of GO Terms: 4
+GO Terms: ['GO:0050515', 'GO:0089720', 'GO:0002055', 'GO:0003862']
+Number of samples: 83
+Mean IR: 1.015
+
+Model 2545, level: 5, bucket: 30, subindex: 19
+Number of GO Terms: 4
+GO Terms: ['GO:0003972', 'GO:0003987', 'GO:0004128', 'GO:0004345']
+Number of samples: 84
+Mean IR: 1.000
+
+Model 2546, level: 5, bucket: 30, subindex: 20
+Number of GO Terms: 4
+GO Terms: ['GO:0004349', 'GO:0004609', 'GO:0009013', 'GO:0018685']
+Number of samples: 84
+Mean IR: 1.000
+
+Model 2547, level: 5, bucket: 30, subindex: 21
+Number of GO Terms: 4
+GO Terms: ['GO:0035184', 'GO:0047456', 'GO:0047490', 'GO:0061697']
+Number of samples: 84
+Mean IR: 1.000
+
+Model 2548, level: 5, bucket: 30, subindex: 22
+Number of GO Terms: 4
+GO Terms: ['GO:1990247', 'GO:0000828', 'GO:0001727', 'GO:0003847']
+Number of samples: 86
+Mean IR: 1.007
+
+Model 2549, level: 5, bucket: 30, subindex: 23
+Number of GO Terms: 4
+GO Terms: ['GO:0003905', 'GO:0004141', 'GO:0004859', 'GO:0140161']
+Number of samples: 86
+Mean IR: 1.000
+
+Model 2550, level: 5, bucket: 30, subindex: 24
+Number of GO Terms: 4
+GO Terms: ['GO:0015190', 'GO:0035256', 'GO:0031995', 'GO:0003852']
+Number of samples: 87
+Mean IR: 1.021
+
+Model 2551, level: 5, bucket: 30, subindex: 25
+Number of GO Terms: 4
+GO Terms: ['GO:0003856', 'GO:0004819', 'GO:0008140', 'GO:0008477']
+Number of samples: 89
+Mean IR: 1.000
+
+Model 2552, level: 5, bucket: 30, subindex: 26
+Number of GO Terms: 4
+GO Terms: ['GO:0008710', 'GO:0016907', 'GO:0031628', 'GO:0033204']
+Number of samples: 89
+Mean IR: 1.000
+
+Model 2553, level: 5, bucket: 30, subindex: 27
+Number of GO Terms: 4
+GO Terms: ['GO:0033743', 'GO:0033744', 'GO:0045125', 'GO:0047023']
+Number of samples: 89
+Mean IR: 1.000
+
+Model 2554, level: 5, bucket: 30, subindex: 28
+Number of GO Terms: 4
+GO Terms: ['GO:0140036', 'GO:0003911', 'GO:0004013', 'GO:0004641']
+Number of samples: 91
+Mean IR: 1.007
+
+Model 2555, level: 5, bucket: 30, subindex: 29
+Number of GO Terms: 4
+GO Terms: ['GO:0004643', 'GO:0008113', 'GO:0036055', 'GO:0061665']
+Number of samples: 91
+Mean IR: 1.000
+
+Model 2556, level: 5, bucket: 30, subindex: 30
+Number of GO Terms: 4
+GO Terms: ['GO:0004062', 'GO:0004399', 'GO:0004616', 'GO:0004765']
+Number of samples: 94
+Mean IR: 1.000
+
+Model 2557, level: 5, bucket: 30, subindex: 31
+Number of GO Terms: 4
+GO Terms: ['GO:0004845', 'GO:0008716', 'GO:0016595', 'GO:0017017']
+Number of samples: 94
+Mean IR: 1.000
+
+Model 2558, level: 5, bucket: 30, subindex: 32
+Number of GO Terms: 4
+GO Terms: ['GO:0030943', 'GO:0035242', 'GO:0051903', 'GO:0003941']
+Number of samples: 94
+Mean IR: 1.019
+
+Model 2559, level: 5, bucket: 30, subindex: 33
+Number of GO Terms: 4
+GO Terms: ['GO:0004067', 'GO:0004350', 'GO:0004719', 'GO:0004735']
+Number of samples: 96
+Mean IR: 1.000
+
+Model 2560, level: 5, bucket: 30, subindex: 34
+Number of GO Terms: 4
+GO Terms: ['GO:0015189', 'GO:0008142', 'GO:0017040', 'GO:0017057']
+Number of samples: 96
+Mean IR: 1.000
+
+Model 2561, level: 5, bucket: 30, subindex: 35
+Number of GO Terms: 4
+GO Terms: ['GO:0000268', 'GO:0004375', 'GO:0019107', 'GO:0005001']
+Number of samples: 98
+Mean IR: 1.000
+
+Model 2562, level: 5, bucket: 30, subindex: 36
+Number of GO Terms: 4
+GO Terms: ['GO:0016992', 'GO:0000254', 'GO:0001758', 'GO:0003864']
+Number of samples: 100
+Mean IR: 1.006
+
+Model 2563, level: 5, bucket: 30, subindex: 37
+Number of GO Terms: 4
+GO Terms: ['GO:0004014', 'GO:0004359', 'GO:0099142', 'GO:0003879']
+Number of samples: 101
+Mean IR: 1.018
+
+Model 2564, level: 5, bucket: 30, subindex: 38
+Number of GO Terms: 4
+GO Terms: ['GO:0004455', 'GO:0004479', 'GO:0008251', 'GO:0022858']
+Number of samples: 103
+Mean IR: 1.000
+
+Model 2565, level: 5, bucket: 30, subindex: 39
+Number of GO Terms: 4
+GO Terms: ['GO:0015186', 'GO:0016175', 'GO:0019855', 'GO:0051880']
+Number of samples: 103
+Mean IR: 1.000
+
+Model 2566, level: 5, bucket: 30, subindex: 40
+Number of GO Terms: 4
+GO Terms: ['GO:1902388', 'GO:0003844', 'GO:0004107', 'GO:0004318']
+Number of samples: 105
+Mean IR: 1.006
+
+Model 2567, level: 5, bucket: 30, subindex: 41
+Number of GO Terms: 4
+GO Terms: ['GO:0004424', 'GO:0004470', 'GO:0015112', 'GO:0015187']
+Number of samples: 106
+Mean IR: 1.000
+
+Model 2568, level: 5, bucket: 30, subindex: 42
+Number of GO Terms: 4
+GO Terms: ['GO:0031994', 'GO:0035174', 'GO:0050815', 'GO:0003949']
+Number of samples: 106
+Mean IR: 1.017
+
+Model 2569, level: 5, bucket: 30, subindex: 43
+Number of GO Terms: 4
+GO Terms: ['GO:0004303', 'GO:0004834', 'GO:0004890', 'GO:0035243']
+Number of samples: 108
+Mean IR: 1.000
+
+Model 2570, level: 5, bucket: 30, subindex: 44
+Number of GO Terms: 4
+GO Terms: ['GO:0050501', 'GO:0003938', 'GO:0003997', 'GO:0004056']
+Number of samples: 110
+Mean IR: 1.006
+
+Model 2571, level: 5, bucket: 30, subindex: 45
+Number of GO Terms: 4
+GO Terms: ['GO:0004316', 'GO:0015347', 'GO:0032454', 'GO:0045028']
+Number of samples: 111
+Mean IR: 1.016
+
+Model 2572, level: 5, bucket: 30, subindex: 46
+Number of GO Terms: 4
+GO Terms: ['GO:0004148', 'GO:0004333', 'GO:0004723', 'GO:0005131']
+Number of samples: 113
+Mean IR: 1.000
+
+Model 2573, level: 5, bucket: 30, subindex: 47
+Number of GO Terms: 4
+GO Terms: ['GO:0022889', 'GO:0120017', 'GO:0034483', 'GO:0004585']
+Number of samples: 114
+Mean IR: 1.011
+
+Model 2574, level: 5, bucket: 30, subindex: 48
+Number of GO Terms: 4
+GO Terms: ['GO:0004751', 'GO:0004764', 'GO:0016215', 'GO:0022851']
+Number of samples: 115
+Mean IR: 1.000
+
+Model 2575, level: 5, bucket: 30, subindex: 49
+Number of GO Terms: 4
+GO Terms: ['GO:0003910', 'GO:0004654', 'GO:0004690', 'GO:0004825']
+Number of samples: 118
+Mean IR: 1.000
+
+Model 2576, level: 5, bucket: 30, subindex: 50
+Number of GO Terms: 4
+GO Terms: ['GO:0042586', 'GO:0008312', 'GO:0010309', 'GO:0019958']
+Number of samples: 119
+Mean IR: 1.005
+
+Model 2577, level: 5, bucket: 30, subindex: 51
+Number of GO Terms: 4
+GO Terms: ['GO:1903425', 'GO:0070548', 'GO:0004619', 'GO:0004645']
+Number of samples: 122
+Mean IR: 1.005
+
+Model 2578, level: 5, bucket: 30, subindex: 52
+Number of GO Terms: 4
+GO Terms: ['GO:0008420', 'GO:0008469', 'GO:0008901', 'GO:0004070']
+Number of samples: 123
+Mean IR: 1.015
+
+Model 2579, level: 5, bucket: 30, subindex: 53
+Number of GO Terms: 4
+GO Terms: ['GO:0004140', 'GO:0004588', 'GO:0004830', 'GO:0035004']
+Number of samples: 125
+Mean IR: 1.000
+
+Model 2580, level: 5, bucket: 30, subindex: 54
+Number of GO Terms: 4
+GO Terms: ['GO:0019871', 'GO:0031489', 'GO:0035241', 'GO:0046523']
+Number of samples: 125
+Mean IR: 1.000
+
+Model 2581, level: 5, bucket: 30, subindex: 55
+Number of GO Terms: 4
+GO Terms: ['GO:0046935', 'GO:0061133', 'GO:0004822', 'GO:0042288']
+Number of samples: 126
+Mean IR: 1.010
+
+Model 2582, level: 5, bucket: 30, subindex: 56
+Number of GO Terms: 4
+GO Terms: ['GO:0004743', 'GO:0004824', 'GO:0045159', 'GO:0004143']
+Number of samples: 130
+Mean IR: 1.014
+
+Model 2583, level: 5, bucket: 30, subindex: 57
+Number of GO Terms: 4
+GO Terms: ['GO:0008603', 'GO:0008526', 'GO:0016505', 'GO:0016004']
+Number of samples: 132
+Mean IR: 1.000
+
+Model 2584, level: 5, bucket: 30, subindex: 58
+Number of GO Terms: 4
+GO Terms: ['GO:0016748', 'GO:0003857', 'GO:0004152', 'GO:0004827']
+Number of samples: 134
+Mean IR: 1.005
+
+Model 2585, level: 5, bucket: 30, subindex: 59
+Number of GO Terms: 4
+GO Terms: ['GO:0004832', 'GO:0004823', 'GO:0005161', 'GO:0061459']
+Number of samples: 136
+Mean IR: 1.004
+
+Model 2586, level: 5, bucket: 30, subindex: 60
+Number of GO Terms: 4
+GO Terms: ['GO:0015355', 'GO:0019870', 'GO:0032036', 'GO:0046570']
+Number of samples: 137
+Mean IR: 1.000
+
+Model 2587, level: 5, bucket: 30, subindex: 61
+Number of GO Terms: 4
+GO Terms: ['GO:0120020', 'GO:0042083', 'GO:0004831', 'GO:0005545']
+Number of samples: 139
+Mean IR: 1.004
+
+Model 2588, level: 5, bucket: 30, subindex: 62
+Number of GO Terms: 4
+GO Terms: ['GO:0004065', 'GO:0004301', 'GO:0004347', 'GO:0047952']
+Number of samples: 142
+Mean IR: 1.000
+
+Model 2589, level: 5, bucket: 30, subindex: 63
+Number of GO Terms: 4
+GO Terms: ['GO:0004814', 'GO:0005165', 'GO:0017136', 'GO:1990814']
+Number of samples: 142
+Mean IR: 1.000
+
+Model 2590, level: 5, bucket: 30, subindex: 64
+Number of GO Terms: 4
+GO Terms: ['GO:0017169', 'GO:0005391', 'GO:0004739', 'GO:0061731']
+Number of samples: 145
+Mean IR: 1.008
+
+Model 2591, level: 5, bucket: 30, subindex: 65
+Number of GO Terms: 4
+GO Terms: ['GO:0097506', 'GO:0005172', 'GO:0015217', 'GO:0016174']
+Number of samples: 146
+Mean IR: 1.000
+
+Model 2592, level: 5, bucket: 30, subindex: 66
+Number of GO Terms: 4
+GO Terms: ['GO:0035252', 'GO:0035613', 'GO:0052885', 'GO:0004817']
+Number of samples: 147
+Mean IR: 1.012
+
+Model 2593, level: 5, bucket: 30, subindex: 67
+Number of GO Terms: 4
+GO Terms: ['GO:0004818', 'GO:0004829', 'GO:0034338', 'GO:0000702']
+Number of samples: 149
+Mean IR: 1.012
+
+Model 2594, level: 5, bucket: 30, subindex: 68
+Number of GO Terms: 4
+GO Terms: ['GO:0003951', 'GO:0004332', 'GO:0010485', 'GO:0001614']
+Number of samples: 152
+Mean IR: 1.012
+
+Model 2595, level: 5, bucket: 30, subindex: 69
+Number of GO Terms: 4
+GO Terms: ['GO:0003747', 'GO:0004640', 'GO:0032453', 'GO:0004459']
+Number of samples: 154
+Mean IR: 1.012
+
+Model 2596, level: 5, bucket: 30, subindex: 70
+Number of GO Terms: 4
+GO Terms: ['GO:0004590', 'GO:0070568', 'GO:0004486', 'GO:0004745']
+Number of samples: 157
+Mean IR: 1.008
+
+Model 2597, level: 5, bucket: 30, subindex: 71
+Number of GO Terms: 4
+GO Terms: ['GO:0097599', 'GO:0019869', 'GO:0004069', 'GO:0016160']
+Number of samples: 160
+Mean IR: 1.008
+
+Model 2598, level: 5, bucket: 30, subindex: 72
+Number of GO Terms: 4
+GO Terms: ['GO:0008239', 'GO:0033592', 'GO:0051864', 'GO:0004061']
+Number of samples: 161
+Mean IR: 1.011
+
+Model 2599, level: 5, bucket: 30, subindex: 73
+Number of GO Terms: 4
+GO Terms: ['GO:0004813', 'GO:0016805', 'GO:0004353', 'GO:0004697']
+Number of samples: 164
+Mean IR: 1.007
+
+Model 2600, level: 5, bucket: 30, subindex: 74
+Number of GO Terms: 4
+GO Terms: ['GO:0042781', 'GO:0051731', 'GO:0004448', 'GO:0004615']
+Number of samples: 167
+Mean IR: 1.007
+
+Model 2601, level: 5, bucket: 30, subindex: 75
+Number of GO Terms: 4
+GO Terms: ['GO:0004792', 'GO:0035596', 'GO:0004045', 'GO:0016211']
+Number of samples: 169
+Mean IR: 1.007
+
+Model 2602, level: 5, bucket: 30, subindex: 76
+Number of GO Terms: 4
+GO Terms: ['GO:0036440', 'GO:0004111', 'GO:0015038', 'GO:0072542']
+Number of samples: 170
+Mean IR: 1.000
+
+Model 2603, level: 5, bucket: 30, subindex: 77
+Number of GO Terms: 4
+GO Terms: ['GO:0001091', 'GO:0004821', 'GO:0004826', 'GO:0016307']
+Number of samples: 173
+Mean IR: 1.010
+
+Model 2604, level: 5, bucket: 30, subindex: 78
+Number of GO Terms: 4
+GO Terms: ['GO:0030169', 'GO:0004322', 'GO:0004650', 'GO:0004953']
+Number of samples: 177
+Mean IR: 1.003
+
+Model 2605, level: 5, bucket: 30, subindex: 79
+Number of GO Terms: 4
+GO Terms: ['GO:0004337', 'GO:0004611', 'GO:0015165', 'GO:0062105']
+Number of samples: 180
+Mean IR: 1.000
+
+Model 2606, level: 5, bucket: 30, subindex: 80
+Number of GO Terms: 4
+GO Terms: ['GO:0030060', 'GO:0004618', 'GO:0004731', 'GO:0004970']
+Number of samples: 182
+Mean IR: 1.003
+
+Model 2607, level: 5, bucket: 30, subindex: 81
+Number of GO Terms: 4
+GO Terms: ['GO:0005148', 'GO:0008392', 'GO:1990381', 'GO:0004089']
+Number of samples: 183
+Mean IR: 1.010
+
+Model 2608, level: 5, bucket: 30, subindex: 82
+Number of GO Terms: 4
+GO Terms: ['GO:0004708', 'GO:0003994', 'GO:0004749', 'GO:0004774']
+Number of samples: 187
+Mean IR: 1.003
+
+Model 2609, level: 5, bucket: 30, subindex: 83
+Number of GO Terms: 4
+GO Terms: ['GO:0008970', 'GO:0004372', 'GO:0015114', 'GO:0070034']
+Number of samples: 190
+Mean IR: 1.013
+
+Model 2610, level: 5, bucket: 30, subindex: 84
+Number of GO Terms: 4
+GO Terms: ['GO:0005092', 'GO:0030599', 'GO:0003950', 'GO:0004807']
+Number of samples: 196
+Mean IR: 1.006
+
+Model 2611, level: 5, bucket: 30, subindex: 85
+Number of GO Terms: 4
+GO Terms: ['GO:0022821', 'GO:0070530', 'GO:0000107', 'GO:0017075']
+Number of samples: 198
+Mean IR: 1.006
+
+Model 2612, level: 5, bucket: 30, subindex: 86
+Number of GO Terms: 4
+GO Terms: ['GO:0106130', 'GO:0045499', 'GO:0002094', 'GO:0005347']
+Number of samples: 203
+Mean IR: 1.015
+
+Model 2613, level: 5, bucket: 30, subindex: 87
+Number of GO Terms: 4
+GO Terms: ['GO:0008381', 'GO:0031690', 'GO:0004709', 'GO:0015296']
+Number of samples: 208
+Mean IR: 1.006
+
+Model 2614, level: 5, bucket: 30, subindex: 88
+Number of GO Terms: 4
+GO Terms: ['GO:0003964', 'GO:0070569', 'GO:0005283', 'GO:0001222']
+Number of samples: 215
+Mean IR: 1.014
+
+Model 2615, level: 5, bucket: 30, subindex: 89
+Number of GO Terms: 4
+GO Terms: ['GO:0004549', 'GO:0035250', 'GO:0004300', 'GO:0004396']
+Number of samples: 223
+Mean IR: 1.003
+
+Model 2616, level: 5, bucket: 30, subindex: 90
+Number of GO Terms: 4
+GO Terms: ['GO:0032296', 'GO:0042285', 'GO:0035255', 'GO:0019202']
+Number of samples: 224
+Mean IR: 1.008
+
+Model 2617, level: 5, bucket: 30, subindex: 91
+Number of GO Terms: 4
+GO Terms: ['GO:0008174', 'GO:0052742', 'GO:0015154', 'GO:0043015']
+Number of samples: 230
+Mean IR: 1.000
+
+Model 2618, level: 5, bucket: 30, subindex: 92
+Number of GO Terms: 4
+GO Terms: ['GO:0022842', 'GO:0004311', 'GO:0004833', 'GO:0005104']
+Number of samples: 237
+Mean IR: 1.003
+
+Model 2499, level: 5, bucket: 100, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0008308', 'GO:0008353', 'GO:0004634', 'GO:0050780', 'GO:0043425']
+Number of samples: 305
+Mean IR: 1.014
+
+Model 2500, level: 5, bucket: 100, subindex: 1
+Number of GO Terms: 5
+GO Terms: ['GO:0001223', 'GO:0005351', 'GO:0005154', 'GO:0070696', 'GO:0051428']
+Number of samples: 316
+Mean IR: 1.027
+
+Model 2501, level: 5, bucket: 100, subindex: 2
+Number of GO Terms: 5
+GO Terms: ['GO:0031420', 'GO:0001784', 'GO:0005502', 'GO:0019957', 'GO:1901612']
+Number of samples: 332
+Mean IR: 1.002
+
+Model 2502, level: 5, bucket: 100, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0008172', 'GO:0015929', 'GO:0004622', 'GO:0008139']
+Number of samples: 275
+Mean IR: 1.011
+
+Model 2503, level: 5, bucket: 100, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0008519', 'GO:0050750', 'GO:0008443', 'GO:0004820']
+Number of samples: 287
+Mean IR: 1.011
+
+Model 2504, level: 5, bucket: 100, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0036361', 'GO:0050567', 'GO:0015923', 'GO:0004568']
+Number of samples: 292
+Mean IR: 1.010
+
+Model 2505, level: 5, bucket: 100, subindex: 6
+Number of GO Terms: 4
+GO Terms: ['GO:0047372', 'GO:0098632', 'GO:0015020', 'GO:0015925']
+Number of samples: 300
+Mean IR: 1.016
+
+Model 2506, level: 5, bucket: 100, subindex: 7
+Number of GO Terms: 4
+GO Terms: ['GO:0008417', 'GO:0008169', 'GO:0071617', 'GO:0033038']
+Number of samples: 312
+Mean IR: 1.031
+
+Model 2507, level: 5, bucket: 100, subindex: 8
+Number of GO Terms: 4
+GO Terms: ['GO:0008188', 'GO:0004030', 'GO:0004715', 'GO:0048487']
+Number of samples: 326
+Mean IR: 1.000
+
+Model 2508, level: 5, bucket: 100, subindex: 9
+Number of GO Terms: 4
+GO Terms: ['GO:0015216', 'GO:0008376', 'GO:0000339', 'GO:0009931']
+Number of samples: 337
+Mean IR: 1.020
+
+Model 2509, level: 5, bucket: 100, subindex: 10
+Number of GO Terms: 4
+GO Terms: ['GO:0032813', 'GO:0010333', 'GO:0043014', 'GO:0004993']
+Number of samples: 348
+Mean IR: 1.021
+
+Model 2510, level: 5, bucket: 100, subindex: 11
+Number of GO Terms: 4
+GO Terms: ['GO:0002161', 'GO:0004190', 'GO:0005109', 'GO:0140323']
+Number of samples: 355
+Mean IR: 1.000
+
+Model 2511, level: 5, bucket: 100, subindex: 12
+Number of GO Terms: 4
+GO Terms: ['GO:0004950', 'GO:0070008', 'GO:0004864', 'GO:0001637']
+Number of samples: 274
+Mean IR: 1.007
+
+Model 2512, level: 5, bucket: 100, subindex: 13
+Number of GO Terms: 4
+GO Terms: ['GO:0003785', 'GO:0004033', 'GO:0061980', 'GO:0017025']
+Number of samples: 373
+Mean IR: 1.010
+
+Model 2513, level: 5, bucket: 100, subindex: 14
+Number of GO Terms: 4
+GO Terms: ['GO:0018455', 'GO:0008378', 'GO:0005310', 'GO:0015250']
+Number of samples: 383
+Mean IR: 1.016
+
+Model 2514, level: 5, bucket: 100, subindex: 15
+Number of GO Terms: 4
+GO Terms: ['GO:0070567', 'GO:0035673', 'GO:0016289', 'GO:0031624']
+Number of samples: 394
+Mean IR: 1.005
+
+Model 2515, level: 5, bucket: 100, subindex: 16
+Number of GO Terms: 4
+GO Terms: ['GO:0004707', 'GO:0004623', 'GO:0051393', 'GO:0004675']
+Number of samples: 411
+Mean IR: 1.028
+
+Model 2516, level: 5, bucket: 100, subindex: 17
+Number of GO Terms: 4
+GO Terms: ['GO:0099529', 'GO:0004550', 'GO:0016408', 'GO:0004806']
+Number of samples: 429
+Mean IR: 1.024
+
+Model 2517, level: 5, bucket: 100, subindex: 18
+Number of GO Terms: 4
+GO Terms: ['GO:0042056', 'GO:0043891', 'GO:0015145', 'GO:0019238']
+Number of samples: 452
+Mean IR: 1.024
+
+Model 2518, level: 5, bucket: 100, subindex: 19
+Number of GO Terms: 4
+GO Terms: ['GO:0000993', 'GO:0004683', 'GO:0004693', 'GO:0071855']
+Number of samples: 481
+Mean IR: 1.006
+
+Model 2519, level: 5, bucket: 100, subindex: 20
+Number of GO Terms: 4
+GO Terms: ['GO:0005160', 'GO:0015101', 'GO:0018024', 'GO:0036002']
+Number of samples: 509
+Mean IR: 1.014
+
+Model 2520, level: 5, bucket: 100, subindex: 21
+Number of GO Terms: 4
+GO Terms: ['GO:0034062', 'GO:0022829', 'GO:0016417', 'GO:0061631']
+Number of samples: 526
+Mean IR: 1.013
+
+Model 2521, level: 5, bucket: 100, subindex: 22
+Number of GO Terms: 4
+GO Terms: ['GO:0004312', 'GO:0004177', 'GO:0004529', 'GO:0022824']
+Number of samples: 553
+Mean IR: 1.008
+
+Model 2522, level: 5, bucket: 100, subindex: 23
+Number of GO Terms: 4
+GO Terms: ['GO:0008375', 'GO:0015298', 'GO:0043175', 'GO:0030515']
+Number of samples: 591
+Mean IR: 1.028
+
+Model 2523, level: 5, bucket: 100, subindex: 24
+Number of GO Terms: 4
+GO Terms: ['GO:0004860', 'GO:0035251', 'GO:0004714', 'GO:0008028']
+Number of samples: 637
+Mean IR: 1.030
+
+Model 2524, level: 5, bucket: 100, subindex: 25
+Number of GO Terms: 4
+GO Terms: ['GO:0017069', 'GO:0008227', 'GO:0003684', 'GO:0003887']
+Number of samples: 665
+Mean IR: 1.008
+
+Model 2525, level: 5, bucket: 100, subindex: 26
+Number of GO Terms: 4
+GO Terms: ['GO:0009678', 'GO:0016409', 'GO:0008235', 'GO:0004180']
+Number of samples: 613
+Mean IR: 1.017
+
+Model 2493, level: 5, bucket: 300, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0004532', 'GO:0071949', 'GO:0008301', 'GO:0050145', 'GO:0008171']
+Number of samples: 922
+Mean IR: 1.034
+
+Model 2494, level: 5, bucket: 300, subindex: 1
+Number of GO Terms: 4
+GO Terms: ['GO:0015926', 'GO:0042379', 'GO:0000030', 'GO:0019200']
+Number of samples: 781
+Mean IR: 1.029
+
+Model 2495, level: 5, bucket: 300, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:0070566', 'GO:0004520', 'GO:0016538', 'GO:0003725']
+Number of samples: 821
+Mean IR: 1.025
+
+Model 2496, level: 5, bucket: 300, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0005253', 'GO:0000217', 'GO:0008083', 'GO:0008175']
+Number of samples: 887
+Mean IR: 1.026
+
+Model 2497, level: 5, bucket: 300, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0008649', 'GO:0046527', 'GO:0030295', 'GO:0000049']
+Number of samples: 976
+Mean IR: 1.073
+
+Model 2498, level: 5, bucket: 300, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0004370', 'GO:0033293', 'GO:0004222', 'GO:0004843']
+Number of samples: 1125
+Mean IR: 1.061
+
+Model 2479, level: 5, bucket: 500, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0003727', 'GO:0022843', 'GO:0015297', 'GO:0008374', 'GO:0019205']
+Number of samples: 1612
+Mean IR: 1.055
+
+Model 2480, level: 5, bucket: 500, subindex: 1
+Number of GO Terms: 5
+GO Terms: ['GO:0015294', 'GO:0019903', 'GO:0004197', 'GO:0015293', 'GO:0019783']
+Number of samples: 1314
+Mean IR: 1.020
+
+Model 2481, level: 5, bucket: 500, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:0005085', 'GO:0008081', 'GO:0004521', 'GO:0015276']
+Number of samples: 1510
+Mean IR: 1.010
+
+Model 2482, level: 5, bucket: 500, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0005179', 'GO:0016410', 'GO:0015171', 'GO:0004620']
+Number of samples: 1585
+Mean IR: 1.018
+
+Model 2483, level: 5, bucket: 500, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0031267', 'GO:0004252', 'GO:0004866', 'GO:0005125']
+Number of samples: 1705
+Mean IR: 1.017
+
+Model 2484, level: 5, bucket: 500, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0050136', 'GO:0004527', 'GO:0003955', 'GO:1901981']
+Number of samples: 1408
+Mean IR: 1.054
+
+Model 2485, level: 5, bucket: 500, subindex: 6
+Number of GO Terms: 4
+GO Terms: ['GO:0008170', 'GO:0003697', 'GO:0016407', 'GO:0004519']
+Number of samples: 2101
+Mean IR: 1.137
+
+Model 2486, level: 5, bucket: 500, subindex: 7
+Number of GO Terms: 4
+GO Terms: ['GO:0031625', 'GO:0019843', 'GO:0015453', 'GO:0061629']
+Number of samples: 2498
+Mean IR: 1.024
+
+Model 2487, level: 5, bucket: 500, subindex: 8
+Number of GO Terms: 4
+GO Terms: ['GO:0061630', 'GO:0015078', 'GO:0008514', 'GO:0008017']
+Number of samples: 2750
+Mean IR: 1.076
+
+Model 2488, level: 5, bucket: 500, subindex: 9
+Number of GO Terms: 4
+GO Terms: ['GO:0005261', 'GO:0022836', 'GO:0005525', 'GO:0000287']
+Number of samples: 2618
+Mean IR: 1.018
+
+Model 2489, level: 5, bucket: 500, subindex: 10
+Number of GO Terms: 4
+GO Terms: ['GO:0032561', 'GO:0019001', 'GO:0008757', 'GO:0005509']
+Number of samples: 3112
+Mean IR: 1.185
+
+Model 2490, level: 5, bucket: 500, subindex: 11
+Number of GO Terms: 4
+GO Terms: ['GO:0016791', 'GO:0019901', 'GO:0046873', 'GO:0005524']
+Number of samples: 5243
+Mean IR: 1.056
+
+Model 2491, level: 5, bucket: 500, subindex: 12
+Number of GO Terms: 4
+GO Terms: ['GO:0016462', 'GO:0003729', 'GO:0032559', 'GO:0030554']
+Number of samples: 4823
+Mean IR: 1.038
+
+Model 2492, level: 5, bucket: 500, subindex: 13
+Number of GO Terms: 4
+GO Terms: ['GO:0046914', 'GO:0000976', 'GO:0003690', 'GO:0043565']
+Number of samples: 7577
+Mean IR: 1.318
+
+Model 2647, level: 6, bucket: 30, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0004321', 'GO:0004367', 'GO:0005363', 'GO:0008160', 'GO:0008832']
+Number of samples: 90
+Mean IR: 1.000
+
+Model 2648, level: 6, bucket: 30, subindex: 1
+Number of GO Terms: 5
+GO Terms: ['GO:0008988', 'GO:0019531', 'GO:0047631', 'GO:0050518', 'GO:0000403']
+Number of samples: 91
+Mean IR: 1.027
+
+Model 2649, level: 6, bucket: 30, subindex: 2
+Number of GO Terms: 5
+GO Terms: ['GO:0004706', 'GO:0050833', 'GO:0008184', 'GO:0016412', 'GO:0015146']
+Number of samples: 93
+Mean IR: 1.000
+
+Model 2650, level: 6, bucket: 30, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0016929', 'GO:0050291', 'GO:0016406', 'GO:0004376']
+Number of samples: 76
+Mean IR: 1.016
+
+Model 2651, level: 6, bucket: 30, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0004557', 'GO:0004768', 'GO:0004862', 'GO:0008532']
+Number of samples: 77
+Mean IR: 1.000
+
+Model 2652, level: 6, bucket: 30, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0009383', 'GO:0015180', 'GO:0015194', 'GO:0016767']
+Number of samples: 72
+Mean IR: 1.000
+
+Model 2653, level: 6, bucket: 30, subindex: 6
+Number of GO Terms: 4
+GO Terms: ['GO:0031698', 'GO:0044729', 'GO:0046537', 'GO:0001640']
+Number of samples: 77
+Mean IR: 1.023
+
+Model 2654, level: 6, bucket: 30, subindex: 7
+Number of GO Terms: 4
+GO Terms: ['GO:0004035', 'GO:0004450', 'GO:0005163', 'GO:0005225']
+Number of samples: 79
+Mean IR: 1.000
+
+Model 2655, level: 6, bucket: 30, subindex: 8
+Number of GO Terms: 4
+GO Terms: ['GO:0008889', 'GO:0042799', 'GO:0043424', 'GO:0097322']
+Number of samples: 79
+Mean IR: 1.000
+
+Model 2656, level: 6, bucket: 30, subindex: 9
+Number of GO Terms: 4
+GO Terms: ['GO:0001016', 'GO:0016416', 'GO:0004366', 'GO:0004809']
+Number of samples: 82
+Mean IR: 1.000
+
+Model 2657, level: 6, bucket: 30, subindex: 10
+Number of GO Terms: 4
+GO Terms: ['GO:0016494', 'GO:0008964', 'GO:0030292', 'GO:0004422']
+Number of samples: 82
+Mean IR: 1.022
+
+Model 2658, level: 6, bucket: 30, subindex: 11
+Number of GO Terms: 4
+GO Terms: ['GO:0004691', 'GO:0008650', 'GO:0030627', 'GO:0097677']
+Number of samples: 84
+Mean IR: 1.000
+
+Model 2659, level: 6, bucket: 30, subindex: 12
+Number of GO Terms: 4
+GO Terms: ['GO:0004100', 'GO:0031127', 'GO:0035597', 'GO:0036456']
+Number of samples: 86
+Mean IR: 1.000
+
+Model 2660, level: 6, bucket: 30, subindex: 13
+Number of GO Terms: 4
+GO Terms: ['GO:0043422', 'GO:0047499', 'GO:0052642', 'GO:0000033']
+Number of samples: 87
+Mean IR: 1.021
+
+Model 2661, level: 6, bucket: 30, subindex: 14
+Number of GO Terms: 4
+GO Terms: ['GO:0004449', 'GO:0042937', 'GO:0070041', 'GO:0016892']
+Number of samples: 89
+Mean IR: 1.020
+
+Model 2662, level: 6, bucket: 30, subindex: 15
+Number of GO Terms: 4
+GO Terms: ['GO:0001163', 'GO:0003937', 'GO:0005471', 'GO:0008515']
+Number of samples: 91
+Mean IR: 1.000
+
+Model 2663, level: 6, bucket: 30, subindex: 16
+Number of GO Terms: 4
+GO Terms: ['GO:0017002', 'GO:0043184', 'GO:0070573', 'GO:0000309']
+Number of samples: 92
+Mean IR: 1.020
+
+Model 2664, level: 6, bucket: 30, subindex: 17
+Number of GO Terms: 4
+GO Terms: ['GO:0004315', 'GO:0016454', 'GO:0048531', 'GO:0015183']
+Number of samples: 94
+Mean IR: 1.000
+
+Model 2665, level: 6, bucket: 30, subindex: 18
+Number of GO Terms: 4
+GO Terms: ['GO:0033192', 'GO:0050072', 'GO:0070733', 'GO:0030628']
+Number of samples: 94
+Mean IR: 1.019
+
+Model 2666, level: 6, bucket: 30, subindex: 19
+Number of GO Terms: 4
+GO Terms: ['GO:0046974', 'GO:0047184', 'GO:0071424', 'GO:0015220']
+Number of samples: 97
+Mean IR: 1.019
+
+Model 2667, level: 6, bucket: 30, subindex: 20
+Number of GO Terms: 4
+GO Terms: ['GO:0016308', 'GO:0042500', 'GO:0055077', 'GO:0070697']
+Number of samples: 98
+Mean IR: 1.000
+
+Model 2668, level: 6, bucket: 30, subindex: 21
+Number of GO Terms: 4
+GO Terms: ['GO:0004515', 'GO:0005260', 'GO:0046870', 'GO:0070043']
+Number of samples: 101
+Mean IR: 1.000
+
+Model 2669, level: 6, bucket: 30, subindex: 22
+Number of GO Terms: 4
+GO Terms: ['GO:0001594', 'GO:0004776', 'GO:0008432', 'GO:0008534']
+Number of samples: 103
+Mean IR: 1.000
+
+Model 2670, level: 6, bucket: 30, subindex: 23
+Number of GO Terms: 4
+GO Terms: ['GO:0016300', 'GO:0099122', 'GO:0004779', 'GO:0015140']
+Number of samples: 104
+Mean IR: 1.012
+
+Model 2671, level: 6, bucket: 30, subindex: 24
+Number of GO Terms: 4
+GO Terms: ['GO:0031176', 'GO:0034513', 'GO:0035197', 'GO:0004352']
+Number of samples: 106
+Mean IR: 1.017
+
+Model 2672, level: 6, bucket: 30, subindex: 25
+Number of GO Terms: 4
+GO Terms: ['GO:0004430', 'GO:0004630', 'GO:0004798', 'GO:0010385']
+Number of samples: 109
+Mean IR: 1.017
+
+Model 2673, level: 6, bucket: 30, subindex: 26
+Number of GO Terms: 4
+GO Terms: ['GO:0030619', 'GO:0032052', 'GO:0034450', 'GO:0042800']
+Number of samples: 110
+Mean IR: 1.000
+
+Model 2674, level: 6, bucket: 30, subindex: 27
+Number of GO Terms: 4
+GO Terms: ['GO:0004563', 'GO:0005164', 'GO:0043855', 'GO:0005247']
+Number of samples: 113
+Mean IR: 1.000
+
+Model 2675, level: 6, bucket: 30, subindex: 28
+Number of GO Terms: 4
+GO Terms: ['GO:0016303', 'GO:0031434', 'GO:0003691', 'GO:0004360']
+Number of samples: 114
+Mean IR: 1.011
+
+Model 2676, level: 6, bucket: 30, subindex: 29
+Number of GO Terms: 4
+GO Terms: ['GO:0015373', 'GO:0008126', 'GO:0003999', 'GO:0004605']
+Number of samples: 117
+Mean IR: 1.005
+
+Model 2677, level: 6, bucket: 30, subindex: 30
+Number of GO Terms: 4
+GO Terms: ['GO:0097157', 'GO:0004861', 'GO:0005459', 'GO:0004567']
+Number of samples: 120
+Mean IR: 1.020
+
+Model 2678, level: 6, bucket: 30, subindex: 31
+Number of GO Terms: 4
+GO Terms: ['GO:0051499', 'GO:0004415', 'GO:0010334', 'GO:0017061']
+Number of samples: 124
+Mean IR: 1.005
+
+Model 2679, level: 6, bucket: 30, subindex: 32
+Number of GO Terms: 4
+GO Terms: ['GO:0046920', 'GO:0019158', 'GO:0019784', 'GO:0031402']
+Number of samples: 126
+Mean IR: 1.010
+
+Model 2680, level: 6, bucket: 30, subindex: 33
+Number of GO Terms: 4
+GO Terms: ['GO:0016427', 'GO:0051371', 'GO:0061575', 'GO:0004385']
+Number of samples: 133
+Mean IR: 1.014
+
+Model 2681, level: 6, bucket: 30, subindex: 34
+Number of GO Terms: 4
+GO Terms: ['GO:0015141', 'GO:0030620', 'GO:0030955', 'GO:0004799']
+Number of samples: 135
+Mean IR: 1.013
+
+Model 2682, level: 6, bucket: 30, subindex: 35
+Number of GO Terms: 4
+GO Terms: ['GO:0004844', 'GO:0070700', 'GO:0004526', 'GO:0004108']
+Number of samples: 139
+Mean IR: 1.022
+
+Model 2683, level: 6, bucket: 30, subindex: 36
+Number of GO Terms: 4
+GO Terms: ['GO:0080044', 'GO:0004954', 'GO:0015386', 'GO:0003680']
+Number of samples: 144
+Mean IR: 1.017
+
+Model 2684, level: 6, bucket: 30, subindex: 37
+Number of GO Terms: 4
+GO Terms: ['GO:0004477', 'GO:0019187', 'GO:0004748', 'GO:0004865']
+Number of samples: 146
+Mean IR: 1.000
+
+Model 2685, level: 6, bucket: 30, subindex: 38
+Number of GO Terms: 4
+GO Terms: ['GO:0005003', 'GO:0071916', 'GO:0030346', 'GO:0034511']
+Number of samples: 146
+Mean IR: 1.000
+
+Model 2686, level: 6, bucket: 30, subindex: 39
+Number of GO Terms: 4
+GO Terms: ['GO:0042577', 'GO:0000179', 'GO:0004356', 'GO:0004556']
+Number of samples: 148
+Mean IR: 1.004
+
+Model 2687, level: 6, bucket: 30, subindex: 40
+Number of GO Terms: 4
+GO Terms: ['GO:0004488', 'GO:0031435', 'GO:0004775', 'GO:0008195']
+Number of samples: 152
+Mean IR: 1.008
+
+Model 2688, level: 6, bucket: 30, subindex: 41
+Number of GO Terms: 4
+GO Terms: ['GO:0015377', 'GO:0000014', 'GO:0016889', 'GO:0004465']
+Number of samples: 156
+Mean IR: 1.016
+
+Model 2689, level: 6, bucket: 30, subindex: 42
+Number of GO Terms: 4
+GO Terms: ['GO:0015173', 'GO:0046975', 'GO:0004127', 'GO:0004309']
+Number of samples: 160
+Mean IR: 1.008
+
+Model 2690, level: 6, bucket: 30, subindex: 43
+Number of GO Terms: 4
+GO Terms: ['GO:0047498', 'GO:0015288', 'GO:0090599', 'GO:0009922']
+Number of samples: 163
+Mean IR: 1.004
+
+Model 2691, level: 6, bucket: 30, subindex: 44
+Number of GO Terms: 4
+GO Terms: ['GO:0080043', 'GO:0004340', 'GO:0004427', 'GO:0030296']
+Number of samples: 165
+Mean IR: 1.004
+
+Model 2692, level: 6, bucket: 30, subindex: 45
+Number of GO Terms: 4
+GO Terms: ['GO:0004559', 'GO:0008865', 'GO:0016151', 'GO:0031748']
+Number of samples: 168
+Mean IR: 1.000
+
+Model 2693, level: 6, bucket: 30, subindex: 46
+Number of GO Terms: 4
+GO Terms: ['GO:0004935', 'GO:0003872', 'GO:0004198', 'GO:0005123']
+Number of samples: 173
+Mean IR: 1.024
+
+Model 2694, level: 6, bucket: 30, subindex: 47
+Number of GO Terms: 4
+GO Terms: ['GO:0016434', 'GO:0015658', 'GO:0005313', 'GO:0030151']
+Number of samples: 176
+Mean IR: 1.003
+
+Model 2695, level: 6, bucket: 30, subindex: 48
+Number of GO Terms: 4
+GO Terms: ['GO:0003988', 'GO:0045236', 'GO:1990825', 'GO:0000026']
+Number of samples: 184
+Mean IR: 1.020
+
+Model 2696, level: 6, bucket: 30, subindex: 49
+Number of GO Terms: 4
+GO Terms: ['GO:0016453', 'GO:0010314', 'GO:0004565', 'GO:0004652']
+Number of samples: 188
+Mean IR: 1.006
+
+Model 2697, level: 6, bucket: 30, subindex: 50
+Number of GO Terms: 4
+GO Terms: ['GO:0019206', 'GO:0010340', 'GO:0015252', 'GO:0044378']
+Number of samples: 193
+Mean IR: 1.006
+
+Model 2698, level: 6, bucket: 30, subindex: 51
+Number of GO Terms: 4
+GO Terms: ['GO:0015651', 'GO:0003933', 'GO:0016913', 'GO:0016436']
+Number of samples: 203
+Mean IR: 1.018
+
+Model 2699, level: 6, bucket: 30, subindex: 52
+Number of GO Terms: 4
+GO Terms: ['GO:0005024', 'GO:0015172', 'GO:0051059', 'GO:0000405']
+Number of samples: 212
+Mean IR: 1.020
+
+Model 2700, level: 6, bucket: 30, subindex: 53
+Number of GO Terms: 4
+GO Terms: ['GO:0017110', 'GO:0005227', 'GO:0004551', 'GO:0004525']
+Number of samples: 217
+Mean IR: 1.006
+
+Model 2701, level: 6, bucket: 30, subindex: 54
+Number of GO Terms: 4
+GO Terms: ['GO:0016435', 'GO:0000340', 'GO:0070006', 'GO:0098847']
+Number of samples: 224
+Mean IR: 1.030
+
+Model 2702, level: 6, bucket: 30, subindex: 55
+Number of GO Terms: 4
+GO Terms: ['GO:0030983', 'GO:0022840', 'GO:0015095', 'GO:0097153']
+Number of samples: 236
+Mean IR: 1.008
+
+Model 2626, level: 6, bucket: 100, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0035198', 'GO:0009041', 'GO:0017070', 'GO:0052745', 'GO:0016894']
+Number of samples: 308
+Mean IR: 1.012
+
+Model 2627, level: 6, bucket: 100, subindex: 1
+Number of GO Terms: 5
+GO Terms: ['GO:0016433', 'GO:0003993', 'GO:0047617', 'GO:0015174', 'GO:0005416']
+Number of samples: 317
+Mean IR: 1.021
+
+Model 2628, level: 6, bucket: 100, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:0015106', 'GO:0099095', 'GO:0042171', 'GO:0008191']
+Number of samples: 239
+Mean IR: 1.009
+
+Model 2629, level: 6, bucket: 100, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0051019', 'GO:0051010', 'GO:0047661', 'GO:0004185']
+Number of samples: 280
+Mean IR: 1.039
+
+Model 2630, level: 6, bucket: 100, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0016273', 'GO:0097100', 'GO:0008157', 'GO:0015556']
+Number of samples: 292
+Mean IR: 1.004
+
+Model 2631, level: 6, bucket: 100, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0034713', 'GO:0004017', 'GO:0004029', 'GO:0005243']
+Number of samples: 298
+Mean IR: 1.006
+
+Model 2632, level: 6, bucket: 100, subindex: 6
+Number of GO Terms: 4
+GO Terms: ['GO:0000295', 'GO:0008106', 'GO:0030291', 'GO:0004181']
+Number of samples: 307
+Mean IR: 1.032
+
+Model 2633, level: 6, bucket: 100, subindex: 7
+Number of GO Terms: 4
+GO Terms: ['GO:0015301', 'GO:0051139', 'GO:0016493', 'GO:0051721']
+Number of samples: 326
+Mean IR: 1.017
+
+Model 2634, level: 6, bucket: 100, subindex: 8
+Number of GO Terms: 4
+GO Terms: ['GO:0022839', 'GO:0070273', 'GO:0008097', 'GO:0048256']
+Number of samples: 346
+Mean IR: 1.021
+
+Model 2635, level: 6, bucket: 100, subindex: 9
+Number of GO Terms: 4
+GO Terms: ['GO:0034714', 'GO:0004022', 'GO:0015149', 'GO:0008252']
+Number of samples: 359
+Mean IR: 1.010
+
+Model 2636, level: 6, bucket: 100, subindex: 10
+Number of GO Terms: 4
+GO Terms: ['GO:0005217', 'GO:0016411', 'GO:0005114', 'GO:0008187']
+Number of samples: 378
+Mean IR: 1.010
+
+Model 2637, level: 6, bucket: 100, subindex: 11
+Number of GO Terms: 4
+GO Terms: ['GO:0004629', 'GO:0005245', 'GO:0004112', 'GO:0019203']
+Number of samples: 396
+Mean IR: 1.031
+
+Model 2638, level: 6, bucket: 100, subindex: 12
+Number of GO Terms: 4
+GO Terms: ['GO:1904315', 'GO:0052866', 'GO:0070717', 'GO:0050897']
+Number of samples: 423
+Mean IR: 1.016
+
+Model 2639, level: 6, bucket: 100, subindex: 13
+Number of GO Terms: 4
+GO Terms: ['GO:0003899', 'GO:0005080', 'GO:0015299', 'GO:0008009']
+Number of samples: 436
+Mean IR: 1.003
+
+Model 2640, level: 6, bucket: 100, subindex: 14
+Number of GO Terms: 4
+GO Terms: ['GO:0043539', 'GO:0004365', 'GO:0016888', 'GO:0048027']
+Number of samples: 442
+Mean IR: 1.012
+
+Model 2641, level: 6, bucket: 100, subindex: 15
+Number of GO Terms: 4
+GO Terms: ['GO:0016413', 'GO:0005272', 'GO:0005184', 'GO:0070180']
+Number of samples: 472
+Mean IR: 1.043
+
+Model 2642, level: 6, bucket: 100, subindex: 16
+Number of GO Terms: 4
+GO Terms: ['GO:0047429', 'GO:0016423', 'GO:0015491', 'GO:0048020']
+Number of samples: 501
+Mean IR: 1.006
+
+Model 2643, level: 6, bucket: 100, subindex: 17
+Number of GO Terms: 4
+GO Terms: ['GO:0008409', 'GO:0016895', 'GO:0008422', 'GO:0042162']
+Number of samples: 482
+Mean IR: 1.048
+
+Model 2644, level: 6, bucket: 100, subindex: 18
+Number of GO Terms: 4
+GO Terms: ['GO:0000400', 'GO:0004869', 'GO:0001046', 'GO:0015295']
+Number of samples: 583
+Mean IR: 1.017
+
+Model 2645, level: 6, bucket: 100, subindex: 19
+Number of GO Terms: 4
+GO Terms: ['GO:0015175', 'GO:0032266', 'GO:0070181', 'GO:0005230']
+Number of samples: 629
+Mean IR: 1.059
+
+Model 2646, level: 6, bucket: 100, subindex: 20
+Number of GO Terms: 4
+GO Terms: ['GO:0005254', 'GO:1990782', 'GO:0015370', 'GO:0016896']
+Number of samples: 698
+Mean IR: 1.012
+
+Model 2623, level: 6, bucket: 300, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0016278', 'GO:0004867', 'GO:0005249', 'GO:0016891', 'GO:0015179']
+Number of samples: 1019
+Mean IR: 1.107
+
+Model 2624, level: 6, bucket: 300, subindex: 1
+Number of GO Terms: 4
+GO Terms: ['GO:0008408', 'GO:0099094', 'GO:0003730', 'GO:0005262']
+Number of samples: 995
+Mean IR: 1.025
+
+Model 2625, level: 6, bucket: 300, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:0005267', 'GO:0016922', 'GO:0046915', 'GO:1902936']
+Number of samples: 1119
+Mean IR: 1.047
+
+Model 2619, level: 6, bucket: 500, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0008080', 'GO:0016796', 'GO:0016893', 'GO:0101005', 'GO:0030145']
+Number of samples: 1518
+Mean IR: 1.038
+
+Model 2620, level: 6, bucket: 500, subindex: 1
+Number of GO Terms: 4
+GO Terms: ['GO:0015085', 'GO:0022834', 'GO:0022832', 'GO:0005507']
+Number of samples: 1283
+Mean IR: 1.014
+
+Model 2621, level: 6, bucket: 500, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:0005506', 'GO:0015081', 'GO:0015079', 'GO:0017111']
+Number of samples: 2357
+Mean IR: 2.333
+
+Model 2622, level: 6, bucket: 500, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0008270', 'GO:0000987', 'GO:0000977', 'GO:1990837']
+Number of samples: 5572
+Mean IR: 1.808
+
+Model 2710, level: 7, bucket: 30, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0000992', 'GO:0001164', 'GO:0017083', 'GO:0032136', 'GO:0015924']
+Number of samples: 91
+Mean IR: 1.027
+
+Model 2711, level: 7, bucket: 30, subindex: 1
+Number of GO Terms: 5
+GO Terms: ['GO:0035529', 'GO:0097200', 'GO:0004936', 'GO:0008254', 'GO:0015369']
+Number of samples: 95
+Mean IR: 1.013
+
+Model 2712, level: 7, bucket: 30, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:0046030', 'GO:0004558', 'GO:1990817', 'GO:0008309']
+Number of samples: 79
+Mean IR: 1.000
+
+Model 2713, level: 7, bucket: 30, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0004102', 'GO:0016290', 'GO:0016985', 'GO:1903136']
+Number of samples: 82
+Mean IR: 1.000
+
+Model 2714, level: 7, bucket: 30, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0005436', 'GO:0015379', 'GO:0042392', 'GO:0004805']
+Number of samples: 85
+Mean IR: 1.043
+
+Model 2715, level: 7, bucket: 30, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0008331', 'GO:0008784', 'GO:0034046', 'GO:0004781']
+Number of samples: 89
+Mean IR: 1.020
+
+Model 2716, level: 7, bucket: 30, subindex: 6
+Number of GO Terms: 4
+GO Terms: ['GO:0004758', 'GO:0004939', 'GO:0034596', 'GO:0034039']
+Number of samples: 94
+Mean IR: 1.000
+
+Model 2717, level: 7, bucket: 30, subindex: 7
+Number of GO Terms: 4
+GO Terms: ['GO:0004534', 'GO:0008821', 'GO:0000182', 'GO:0015378']
+Number of samples: 97
+Mean IR: 1.012
+
+Model 2718, level: 7, bucket: 30, subindex: 8
+Number of GO Terms: 4
+GO Terms: ['GO:0034594', 'GO:0052834', 'GO:0015269', 'GO:0061578']
+Number of samples: 100
+Mean IR: 1.006
+
+Model 2719, level: 7, bucket: 30, subindex: 9
+Number of GO Terms: 4
+GO Terms: ['GO:0003934', 'GO:0004059', 'GO:0051500', 'GO:0004170']
+Number of samples: 104
+Mean IR: 1.017
+
+Model 2720, level: 7, bucket: 30, subindex: 10
+Number of GO Terms: 4
+GO Terms: ['GO:0005432', 'GO:0004382', 'GO:0045134', 'GO:0003985']
+Number of samples: 81
+Mean IR: 1.022
+
+Model 2721, level: 7, bucket: 30, subindex: 11
+Number of GO Terms: 4
+GO Terms: ['GO:0005229', 'GO:0015279', 'GO:0005221', 'GO:0061778']
+Number of samples: 84
+Mean IR: 1.011
+
+Model 2722, level: 7, bucket: 30, subindex: 12
+Number of GO Terms: 4
+GO Terms: ['GO:0097199', 'GO:0005353', 'GO:0035259', 'GO:0019136']
+Number of samples: 122
+Mean IR: 1.040
+
+Model 2723, level: 7, bucket: 30, subindex: 13
+Number of GO Terms: 4
+GO Terms: ['GO:0003896', 'GO:0005005', 'GO:0005237', 'GO:0051753']
+Number of samples: 130
+Mean IR: 1.014
+
+Model 2724, level: 7, bucket: 30, subindex: 14
+Number of GO Terms: 4
+GO Terms: ['GO:0004955', 'GO:0008176', 'GO:0004024', 'GO:0033862']
+Number of samples: 136
+Mean IR: 1.022
+
+Model 2725, level: 7, bucket: 30, subindex: 15
+Number of GO Terms: 4
+GO Terms: ['GO:0004042', 'GO:1990380', 'GO:0005025', 'GO:0000979']
+Number of samples: 145
+Mean IR: 1.042
+
+Model 2726, level: 7, bucket: 30, subindex: 16
+Number of GO Terms: 4
+GO Terms: ['GO:0004144', 'GO:0034595', 'GO:0015278', 'GO:0022848']
+Number of samples: 154
+Mean IR: 1.032
+
+Model 2727, level: 7, bucket: 30, subindex: 17
+Number of GO Terms: 4
+GO Terms: ['GO:0015271', 'GO:0005375', 'GO:0015368', 'GO:0015086']
+Number of samples: 175
+Mean IR: 1.041
+
+Model 2728, level: 7, bucket: 30, subindex: 18
+Number of GO Terms: 4
+GO Terms: ['GO:0015280', 'GO:0042974', 'GO:0008297', 'GO:0003841']
+Number of samples: 188
+Mean IR: 1.023
+
+Model 2729, level: 7, bucket: 30, subindex: 19
+Number of GO Terms: 4
+GO Terms: ['GO:0005248', 'GO:0035312', 'GO:0005242', 'GO:0050681']
+Number of samples: 198
+Mean IR: 1.031
+
+Model 2730, level: 7, bucket: 30, subindex: 20
+Number of GO Terms: 4
+GO Terms: ['GO:0022841', 'GO:0004032', 'GO:0008296', 'GO:0043047']
+Number of samples: 216
+Mean IR: 1.032
+
+Model 2731, level: 7, bucket: 30, subindex: 21
+Number of GO Terms: 4
+GO Terms: ['GO:0046966', 'GO:0099604', 'GO:0031731', 'GO:0015385']
+Number of samples: 232
+Mean IR: 1.024
+
+Model 2704, level: 7, bucket: 100, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0004523', 'GO:0052744', 'GO:0009019', 'GO:0008199', 'GO:0035925']
+Number of samples: 306
+Mean IR: 1.030
+
+Model 2705, level: 7, bucket: 100, subindex: 1
+Number of GO Terms: 5
+GO Terms: ['GO:0034593', 'GO:0005251', 'GO:0008253', 'GO:0005355', 'GO:0005384']
+Number of samples: 352
+Mean IR: 1.059
+
+Model 2706, level: 7, bucket: 100, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:0050308', 'GO:0004114', 'GO:0005231', 'GO:0017108']
+Number of samples: 311
+Mean IR: 1.012
+
+Model 2707, level: 7, bucket: 100, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0005381', 'GO:0030331', 'GO:0008266', 'GO:0004435']
+Number of samples: 323
+Mean IR: 1.032
+
+Model 2708, level: 7, bucket: 100, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0005451', 'GO:0008143', 'GO:0005385', 'GO:0016887']
+Number of samples: 416
+Mean IR: 1.262
+
+Model 2709, level: 7, bucket: 100, subindex: 5
+Number of GO Terms: 4
+GO Terms: ['GO:0008198', 'GO:0034212', 'GO:0000175', 'GO:0003688']
+Number of samples: 589
+Mean IR: 1.091
+
+Model 2703, level: 7, bucket: 500, subindex: 0
+Number of GO Terms: 2
+GO Terms: ['GO:0003924', 'GO:0000978']
+Number of samples: 3599
+Mean IR: 1.811
+
+Model 2733, level: 8, bucket: 30, subindex: 0
+Number of GO Terms: 5
+GO Terms: ['GO:0004118', 'GO:0004331', 'GO:0005223', 'GO:0005222', 'GO:0045145']
+Number of samples: 83
+Mean IR: 1.059
+
+Model 2734, level: 8, bucket: 30, subindex: 1
+Number of GO Terms: 5
+GO Terms: ['GO:0004797', 'GO:0008934', 'GO:0052906', 'GO:0004957', 'GO:0035497']
+Number of samples: 111
+Mean IR: 1.028
+
+Model 2735, level: 8, bucket: 30, subindex: 2
+Number of GO Terms: 4
+GO Terms: ['GO:0008310', 'GO:0015093', 'GO:0106018', 'GO:0004439']
+Number of samples: 104
+Mean IR: 1.146
+
+Model 2736, level: 8, bucket: 30, subindex: 3
+Number of GO Terms: 4
+GO Terms: ['GO:0046965', 'GO:0042132', 'GO:0106019', 'GO:0047555']
+Number of samples: 138
+Mean IR: 1.119
+
+Model 2737, level: 8, bucket: 30, subindex: 4
+Number of GO Terms: 4
+GO Terms: ['GO:0004115', 'GO:0004535', 'GO:0004596', 'GO:0004438']
+Number of samples: 177
+Mean IR: 1.163
+
+Model 2732, level: 8, bucket: 100, subindex: 0
+Number of GO Terms: 1
+GO Terms: ['GO:0070888']
+Number of samples: 124
+Mean IR: 1.000
+

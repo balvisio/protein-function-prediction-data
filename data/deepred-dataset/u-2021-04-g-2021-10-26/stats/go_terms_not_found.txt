@@ -1,0 +1,1 @@
+This is a list of GO terms that were not found in the ontology when parsing Swissprot. Count: 0
