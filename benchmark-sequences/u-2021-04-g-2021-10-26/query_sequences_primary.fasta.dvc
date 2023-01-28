@@ -1,0 +1,4 @@
+outs:
+- md5: 396403cb6587274de2e499148e52600c
+  size: 785570
+  path: query_sequences_primary.fasta

@@ -1,0 +1,4 @@
+outs:
+- md5: 7c59e105cdd54c16a4d29bbdeb8d5bd3
+  size: 11757
+  path: query_sequences.txt
