@@ -1,4 +1,4 @@
 outs:
 - md5: 46eb6efa95ac3c5b11c115565ba2ff65
   size: 6522075586
-  path: deepred_dataset_level_2.bin
+  path: deepred_dataset_level_2.pkl
