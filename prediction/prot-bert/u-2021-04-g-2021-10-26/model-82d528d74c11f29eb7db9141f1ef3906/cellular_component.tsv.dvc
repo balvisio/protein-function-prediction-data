@@ -1,0 +1,4 @@
+outs:
+- md5: ecdaf6b49f52a8a10c75952ff9407b4b
+  size: 1984382
+  path: cellular_component.tsv

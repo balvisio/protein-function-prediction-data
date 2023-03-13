@@ -1,0 +1,4 @@
+outs:
+- md5: fa94c33e3e5613e5b93b557459ca06e5
+  size: 2067502
+  path: molecular_function.tsv
